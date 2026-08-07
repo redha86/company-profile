@@ -1,0 +1,654 @@
+{
+  "navbar": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "industries": "Industries",
+    "process": "Process",
+    "careers": "Careers",
+    "contact": "Contact",
+    "contactUs": "Contact Us"
+  },
+  "common": {
+    "home": "Home",
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contactUs": "Contact Us"
+  },
+  "hero": {
+    "badge": "Business Technology Partner",
+    "title": "Build. Scale.",
+    "titleHighlight": "Transform.",
+    "description": "Helping businesses accelerate digital transformation through scalable software, enterprise systems, mobile applications, and technology consulting.",
+    "ctaPrimary": "Let's Build Together",
+    "ctaSecondary": "View Portfolio",
+    "trustItems": {
+      "enterprise": "Enterprise Software",
+      "mobile": "Mobile Development",
+      "cloud": "Cloud Integration",
+      "design": "UI/UX Design"
+    },
+    "dashboard": {
+      "title": "ORREN Analytics",
+      "totalProjects": "Total Projects",
+      "totalProjectsValue": "50+",
+      "totalProjectsChange": "+12 this month",
+      "clientSatisfaction": "Client Satisfaction",
+      "clientSatisfactionValue": "98%",
+      "clientSatisfactionChange": "Top 1% industry",
+      "activeClients": "Active Clients",
+      "activeClientsValue": "20+",
+      "activeClientsGrowth": "75% growth QoQ",
+      "recentDeployments": "Recent Deployments",
+      "deployment1": "ERP Implementation",
+      "deployment2": "Mobile App v2.0",
+      "deployment3": "Cloud Migration",
+      "deployment4": "API Gateway",
+      "timeAgo": "2h ago",
+      "systemHealth": "System Health",
+      "systemHealthValue": "99.99% Uptime",
+      "alertSystem": "Alert System",
+      "apiLatency": "API Latency",
+      "apiLatencyStatus": "Optimal",
+      "databaseLoad": "Database Load",
+      "databaseLoadStatus": "Normal",
+      "activeUsers": "Active Users",
+      "activeUsersValue": "12.5K",
+      "activeUsersChange": "+3.2% from yesterday"
+    },
+    "scroll": "Scroll"
+  },
+  "stats": {
+    "projectsDelivered": "Projects Delivered",
+    "happyClients": "Happy Clients",
+    "clientSatisfaction": "Client Satisfaction",
+    "yearsExcellence": "Years of Excellence"
+  },
+  "technologies": {
+    "title": "Built with Industry-Leading Technologies"
+  },
+  "valueProps": {
+    "customDev": {
+      "subtitle": "Custom Software Development",
+      "description": "Every solution is designed specifically for your business."
+    },
+    "agile": {
+      "subtitle": "Sprint-Based Workflow",
+      "description": "Fast iteration and transparent development process."
+    },
+    "cloud": {
+      "subtitle": "Deployment Ready",
+      "description": "Applications prepared for modern cloud infrastructure."
+    },
+    "support": {
+      "subtitle": "Technical Support",
+      "description": "Continuous support and maintenance after deployment."
+    }
+  },
+  "services": {
+    "customDevelopment": {
+      "title": "Custom Software Development",
+      "description": "Tailored solutions built to match your unique business requirements and workflows."
+    },
+    "uiuxDesign": {
+      "title": "UI/UX Design",
+      "description": "Beautiful, intuitive interfaces that delight users and drive engagement."
+    },
+    "database": {
+      "title": "Database Architecture",
+      "description": "Scalable, optimized data structures designed for performance and reliability."
+    },
+    "cloud": {
+      "title": "Cloud Solutions",
+      "description": "Modern cloud infrastructure that scales with your business needs."
+    },
+    "security": {
+      "title": "Security & Compliance",
+      "description": "Enterprise-grade security measures to protect your data and users."
+    },
+    "performance": {
+      "title": "Performance Optimization",
+      "description": "Lightning-fast applications optimized for speed and efficiency."
+    }
+  },
+  "whyOrren": {
+    "businessFirst": {
+      "title": "Business First",
+      "description": "We prioritize your business goals and ROI in every decision, ensuring technology serves your vision."
+    },
+    "scalable": {
+      "title": "Scalable Architecture",
+      "description": "Built to grow with your business. Our solutions scale seamlessly as your needs evolve."
+    },
+    "custom": {
+      "title": "Custom Development",
+      "description": "No templates or cookie-cutter solutions. Every line of code is crafted for your specific needs."
+    },
+    "partnership": {
+      "title": "Long-term Partnership",
+      "description": "We are not just developers, we are your partners in growth. Support and evolution beyond launch."
+    }
+  },
+  "testimonials": {
+    "testimonial1": {
+      "quote": "ORREN transformed our legacy system into a modern, scalable platform. Their expertise and dedication were exceptional.",
+      "author": "Sarah Johnson",
+      "role": "CTO, TechCorp"
+    },
+    "testimonial2": {
+      "quote": "The team at ORREN delivered beyond our expectations. They understood our business needs and created a solution that drove real results.",
+      "author": "Michael Chen",
+      "role": "CEO, InnovateLabs"
+    },
+    "testimonial3": {
+      "quote": "Working with ORREN was a game-changer. Their attention to detail and commitment to quality is unmatched.",
+      "author": "Emily Rodriguez",
+      "role": "Product Director, DataFlow"
+    },
+    "testimonial4": {
+      "quote": "ORREN built our entire platform from scratch. Their technical skills and business acumen made them the perfect partner.",
+      "author": "David Kim",
+      "role": "Founder, StartupHub"
+    },
+    "testimonial5": {
+      "quote": "ORREN built our entire platform from scratch. Their technical skills and business acumen made them the perfect partner.",
+      "author": "Kim jong un",
+      "role": "Founder, StartupHub"
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "description": "Let's discuss how we can help you achieve your goals with cutting-edge technology solutions tailored to your needs.",
+    "primary": "Start a Conversation",
+    "secondary": "Explore Services"
+  },
+  "about": {
+    "hero": {
+      "description": "Your trusted Business Technology Partner, building scalable solutions since 2019"
+    },
+    "story": {
+      "title": "Our Story",
+      "description": "Founded in 2019, ORREN emerged from a simple belief: technology should empower businesses, not complicate them. We've grown from a small team to a trusted partner for companies worldwide."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To accelerate digital transformation by delivering scalable, innovative software solutions that drive measurable business outcomes and long-term success."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To be the world's most trusted technology partner, known for turning ambitious ideas into reality through exceptional software craftsmanship."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide everything we do",
+      "excellence": {
+        "title": "Excellence",
+        "description": "We pursue excellence in every line of code, every design decision, and every client interaction."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "Transparency and honesty guide our relationships with clients, partners, and team members."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "description": "We believe the best solutions emerge from close collaboration between our team and yours."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We stay ahead of technology trends to deliver cutting-edge solutions that give you a competitive edge."
+      },
+      "passion": {
+        "title": "Passion",
+        "description": "We love what we do, and it shows in the quality of our work and dedication to your success."
+      }
+    },
+    "journey": {
+      "title": "Our Journey",
+      "subtitle": "Milestones that shaped ORREN",
+      "timeline": [
+        {
+          "year": "2019",
+          "event": "ORREN Founded",
+          "description": "Started with a vision to transform how businesses approach technology"
+        },
+        {
+          "year": "2020",
+          "event": "First Enterprise Client",
+          "description": "Delivered our first large-scale enterprise solution"
+        },
+        {
+          "year": "2022",
+          "event": "50+ Projects",
+          "description": "Reached a major milestone serving diverse industries"
+        },
+        {
+          "year": "2024",
+          "event": "Global Expansion",
+          "description": "Extended our services to international markets"
+        },
+        {
+          "year": "2026",
+          "event": "Innovation Hub",
+          "description": "Launched our R&D division focusing on AI and emerging tech"
+        }
+      ]
+    },
+    "team": {
+      "title": "Meet Our Leadership",
+      "subtitle": "The team driving ORREN forward",
+      "members": [
+        {
+          "name": "Alex Johnson",
+          "role": "CEO & Founder"
+        },
+        {
+          "name": "Sarah Chen",
+          "role": "CTO"
+        },
+        {
+          "name": "Michael Rodriguez",
+          "role": "Head of Design"
+        },
+        {
+          "name": "Emily Davis",
+          "role": "VP of Engineering"
+        }
+      ]
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Our",
+      "titleHighlight": "Services",
+      "description": "End-to-end software solutions tailored to your business needs"
+    },
+    "items": {
+      "web": {
+        "title": "Web Development",
+        "longDescription": "We build fast, secure, and scalable web applications using the latest frameworks and best practices. From enterprise platforms to customer-facing portals, we deliver solutions that drive business growth.",
+        "features": [
+          "Custom web applications",
+          "Progressive Web Apps (PWA)",
+          "E-commerce platforms",
+          "CMS development",
+          "API development",
+          "Cloud deployment"
+        ]
+      },
+      "mobile": {
+        "title": "Mobile Development",
+        "longDescription": "Create exceptional mobile experiences that engage users and drive conversions. We develop native iOS and Android apps, as well as cross-platform solutions that maximize reach while minimizing costs.",
+        "features": [
+          "iOS app development",
+          "Android app development",
+          "React Native solutions",
+          "Flutter applications",
+          "App store optimization",
+          "Mobile backend services"
+        ]
+      },
+      "uiux": {
+        "title": "UI/UX Design",
+        "longDescription": "Design is not just how it looks, but how it works. We create user-centered designs that combine aesthetics with functionality, ensuring your users have an exceptional experience.",
+        "features": [
+          "User research & personas",
+          "Wireframing & prototyping",
+          "Visual design",
+          "Design systems",
+          "Usability testing",
+          "Accessibility compliance"
+        ]
+      },
+      "website": {
+        "title": "Company Website",
+        "longDescription": "Your website is often the first impression customers have of your business. We create stunning, high-performance websites that engage visitors and convert them into customers.",
+        "features": [
+          "Corporate websites",
+          "Landing pages",
+          "Portfolio websites",
+          "SEO optimization",
+          "Content management",
+          "Analytics integration"
+        ]
+      },
+      "integration": {
+        "title": "System Integration",
+        "longDescription": "Break down data silos and streamline operations by integrating your existing systems. We connect ERPs, CRMs, payment gateways, and third-party services into a unified ecosystem.",
+        "features": [
+          "API integration",
+          "Third-party services",
+          "Legacy system modernization",
+          "Data migration",
+          "Workflow automation",
+          "Custom middleware"
+        ]
+      },
+      "maintenance": {
+        "title": "Maintenance & Support",
+        "longDescription": "Software needs ongoing care to remain secure, performant, and valuable. Our maintenance and support services ensure your applications continue to deliver results long after launch.",
+        "features": [
+          "Bug fixes & updates",
+          "Performance monitoring",
+          "Security patches",
+          "Feature enhancements",
+          "Technical support",
+          "Infrastructure management"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "description": "Let's discuss how we can help transform your business with the right technology solutions.",
+      "button": "Start a Project"
+    }
+  },
+  "portfolioPage": {
+    "hero": {
+      "title": "Our",
+      "titleHighlight": "Portfolio",
+      "description": "Transforming ideas into impactful digital experiences"
+    },
+    "filters": {
+      "all": "All",
+      "web": "Web",
+      "mobile": "Mobile",
+      "design": "Design",
+      "enterprise": "Enterprise"
+    },
+    "projects": {
+      "healthcare": {
+        "title": "HealthCare Platform",
+        "category": "web",
+        "description": "Comprehensive healthcare management system serving 10,000+ patients"
+      },
+      "ecommerce": {
+        "title": "E-Commerce Mobile App",
+        "category": "mobile",
+        "description": "Cross-platform shopping app with 500K+ downloads"
+      },
+      "finance": {
+        "title": "Financial Dashboard",
+        "category": "design",
+        "description": "Intuitive financial analytics platform for enterprise clients"
+      },
+      "erp": {
+        "title": "Manufacturing ERP",
+        "category": "enterprise",
+        "description": "End-to-end ERP solution for manufacturing operations"
+      },
+      "education": {
+        "title": "Education Learning Portal",
+        "category": "web",
+        "description": "Interactive learning platform with video streaming and assessments"
+      },
+      "logistics": {
+        "title": "Logistics Tracking App",
+        "category": "mobile",
+        "description": "Real-time shipment tracking with GPS integration"
+      }
+    },
+    "cta": {
+      "title": "Have a project in mind?",
+      "subtitle": "Let's discuss how we can bring your vision to life",
+      "button": "Start Your Project"
+    }
+  },
+  "industriesPage": {
+    "hero": {
+      "title": "Industries",
+      "titleHighlight": "Serve",
+      "description": "Tailored solutions for diverse industries and business types"
+    },
+    "industrySection": {
+      "title": "Industry-Specific Solutions",
+      "subtitle": "Deep expertise across multiple sectors"
+    },
+    "industries": {
+      "education": {
+        "title": "Education",
+        "description": "Digital transformation for schools, universities, and learning platforms",
+        "features": [
+          "Learning Management Systems",
+          "Student Portals",
+          "Virtual Classrooms",
+          "Gamified Learning"
+        ]
+      },
+      "manufacturing": {
+        "title": "Manufacturing",
+        "description": "Smart manufacturing solutions that optimize production and supply chain",
+        "features": [
+          "IoT Integration",
+          "Production Monitoring",
+          "Quality Control Systems",
+          "Supply Chain Management"
+        ]
+      },
+      "healthcare": {
+        "title": "Healthcare",
+        "description": "Secure, compliant solutions for clinics, hospitals, and health tech",
+        "features": [
+          "EHR Systems",
+          "Telemedicine Platforms",
+          "Patient Management",
+          "Compliance & Security"
+        ]
+      },
+      "logistics": {
+        "title": "Logistics",
+        "description": "End-to-end logistics solutions for transportation and delivery companies",
+        "features": [
+          "Route Optimization",
+          "Fleet Management",
+          "Real-time Tracking",
+          "Warehouse Automation"
+        ]
+      },
+      "retail": {
+        "title": "Retail",
+        "description": "Omnichannel solutions that transform the retail experience",
+        "features": [
+          "E-commerce Platforms",
+          "POS Systems",
+          "Customer Loyalty",
+          "Inventory Management"
+        ]
+      },
+      "corporate": {
+        "title": "Corporate",
+        "description": "Enterprise solutions for established businesses seeking innovation",
+        "features": [
+          "Digital Transformation",
+          "Enterprise Software",
+          "Automation",
+          "Analytics Dashboards"
+        ]
+      },
+      "startup": {
+        "title": "Startup",
+        "description": "Accelerated solutions for fast-growing startups and tech companies",
+        "features": [
+          "Rapid Prototyping",
+          "MVP Development",
+          "Scalable Architecture",
+          "Agile Development"
+        ]
+      }
+    },
+    "cta": {
+      "title": "See how we can help your industry",
+      "description": "Whether you're a startup or an established enterprise, we have the expertise to drive your digital transformation.",
+      "button": "Discuss Your Industry Needs"
+    }
+  },
+  "processPage": {
+    "hero": {
+      "title": "Our",
+      "titleHighlight": "Process",
+      "description": "A proven methodology for delivering exceptional results"
+    },
+    "section": {
+      "title": "From Vision to Reality",
+      "subtitle": "Our proven 7-step process ensures your project is delivered on time, within budget, and to the highest standards"
+    },
+    "steps": {
+      "discovery": {
+        "phase": "Discovery",
+        "duration": "Week 1-2",
+        "description": "We dive deep into understanding your business, goals, and challenges. This phase includes stakeholder interviews, market research, and technical assessment.",
+        "details": "Requirements gathering, Stakeholder interviews, Market analysis, Technical audit"
+      },
+      "planning": {
+        "phase": "Planning",
+        "duration": "Week 2-3",
+        "description": "We create a comprehensive roadmap outlining project scope, timeline, and resource allocation.",
+        "details": "Project roadmap, Architecture design, Technology selection, Sprint planning"
+      },
+      "uiux": {
+        "phase": "UI/UX Design",
+        "duration": "Week 3-5",
+        "description": "Our designers craft intuitive interfaces and engaging user experiences tailored to your audience.",
+        "details": "Wireframes, Prototypes, Visual design, User testing"
+      },
+      "development": {
+        "phase": "Development",
+        "duration": "Week 5-12",
+        "description": "Our engineering team brings designs to life using agile methodologies and best practices.",
+        "details": "Agile sprints, API development, Frontend & backend, Code reviews"
+      },
+      "testing": {
+        "phase": "Testing",
+        "duration": "Week 12-13",
+        "description": "Rigorous quality assurance ensures your solution is reliable, secure, and performs flawlessly.",
+        "details": "QA testing, Security audit, Performance testing, Bug tracking"
+      },
+      "deployment": {
+        "phase": "Deployment",
+        "duration": "Week 13-14",
+        "description": "We handle the entire deployment process, ensuring a smooth transition to production.",
+        "details": "CI/CD pipeline, Cloud deployment, Monitoring setup, Go-live support"
+      },
+      "support": {
+        "phase": "Support & Growth",
+        "duration": "Ongoing",
+        "description": "We continue to support, maintain, and improve your solution to ensure long-term success.",
+        "details": "Ongoing support, Feature updates, Performance optimization, Strategic consulting"
+      }
+    },
+    "cta": {
+      "title": "Ready to start your journey?",
+      "subtitle": "We're ready when you are",
+      "button": "Start Your Project"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Let's",
+      "titleHighlight": "Talk",
+      "description": "Ready to transform your business? Get in touch with our team of technology experts."
+    },
+    "form": {
+      "title": "Send us a message",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "company": "Company",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Get in touch",
+      "email": {
+        "label": "Email",
+        "note": "We'll respond within 24 hours"
+      },
+      "phone": {
+        "label": "Phone",
+        "note": "Mon-Fri 9am-6pm EST"
+      },
+      "office": {
+        "label": "Office"
+      }
+    },
+    "social": {
+      "title": "Follow Us",
+      "description": "Stay connected with our latest updates and insights."
+    },
+    "whatsapp": {
+      "message": "Hello ORREN 👋\n\nName: {{firstName}} {{lastName}}\n\nEmail: {{email}}\n\nCompany: {{company}}\n\nMessage:\n{{message}}\n\nI'm interested in discussing my project needs further.\nThank you."
+    }
+  },
+  "seo": {
+    "siteName": "ORREN Business Technology",
+    "home": {
+      "title": "Software House Indonesia | ORREN Business Technology",
+      "description": "ORREN is a software house in Indonesia offering web development, mobile apps, enterprise software, UI/UX design, and digital transformation.",
+      "keywords": "software house indonesia, jasa pembuatan website, web development indonesia, mobile app development indonesia, custom software development, enterprise software indonesia, ui ux design indonesia, digital transformation indonesia, cloud integration indonesia, technology consultant indonesia, ORREN"
+    },
+    "about": {
+      "title": "About ORREN | ORREN Business Technology",
+      "description": "Learn about ORREN, a software house in Indonesia specializing in enterprise software, web development, and digital transformation since 2019.",
+      "keywords": "software house indonesia, technology consultant indonesia, custom software development, digital transformation indonesia, enterprise software indonesia"
+    },
+    "services": {
+      "title": "Services | ORREN Business Technology",
+      "description": "Explore ORREN services: custom software, web development, mobile apps, UI/UX design, system integration, and cloud solutions for your business.",
+      "keywords": "jasa pembuatan website, web development indonesia, mobile app development indonesia, custom software development, enterprise software indonesia, ui ux design indonesia, cloud integration indonesia, technology consultant indonesia"
+    },
+    "portfolio": {
+      "title": "Portfolio | ORREN Business Technology",
+      "description": "View ORREN portfolio of enterprise software, healthcare platforms, e-commerce apps, and mobile solutions built for clients worldwide.",
+      "keywords": "software house indonesia portfolio, custom software development, web development indonesia, mobile app development indonesia, enterprise software indonesia"
+    },
+    "industries": {
+      "title": "Industries | ORREN Business Technology",
+      "description": "ORREN serves healthcare, education, logistics, retail, manufacturing, and startups with tailored enterprise software and digital solutions.",
+      "keywords": "digital transformation indonesia, enterprise software indonesia, software house indonesia, cloud integration indonesia"
+    },
+    "process": {
+      "title": "Process | ORREN Business Technology",
+      "description": "Discover ORREN proven 7-step development process from discovery to deployment, delivering software on time and on budget.",
+      "keywords": "software house indonesia, custom software development process, web development indonesia, technology consultant indonesia"
+    },
+    "contact": {
+      "title": "Contact | ORREN Business Technology",
+      "description": "Contact ORREN, a software house in Indonesia, for enterprise software, web development, mobile apps, cloud, and digital transformation projects.",
+      "keywords": "contact software house indonesia, jasa pembuatan website, web development indonesia, mobile app development indonesia, enterprise software indonesia, technology consultant indonesia"
+    },
+    "careers": {
+      "title": "Careers | ORREN Business Technology",
+      "description": "Join ORREN team of engineers, designers, and consultants building enterprise software, web, mobile, and cloud solutions in Indonesia.",
+      "keywords": "software house indonesia careers, web development indonesia, mobile app development indonesia, ui ux design indonesia"
+    },
+    "notFound": {
+      "title": "Page Not Found | ORREN Business Technology",
+      "description": "The page you are looking for could not be found. Explore ORREN software, web, mobile, cloud, and UI/UX services.",
+      "keywords": "404, page not found, software house indonesia, ORREN"
+    }
+  },
+  "languageSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "id": "Indonesian"
+  },
+  "footer": {
+    "tagline": "Your Business Technology Partner. Building scalable software solutions that drive digital transformation.",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "webDevelopment": "Web Development",
+    "mobileApps": "Mobile Apps",
+    "uiuxDesign": "UI/UX Design",
+    "cloudSolutions": "Cloud Solutions",
+    "contactInfo": "Contact Info",
+    "address": "123 Business Ave, Tech City, TC 12345",
+    "rightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist. It may have been moved or removed.",
+    "backHome": "Back to Home"
+  }
+}

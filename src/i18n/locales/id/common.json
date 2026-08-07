@@ -1,0 +1,654 @@
+{
+  "navbar": {
+    "about": "Tentang",
+    "services": "Layanan",
+    "portfolio": "Portofolio",
+    "industries": "Industri",
+    "process": "Proses",
+    "careers": "Karir",
+    "contact": "Kontak",
+    "contactUs": "Hubungi Kami"
+  },
+  "common": {
+    "home": "Beranda",
+    "learnMore": "Pelajari Lebih Lanjut",
+    "getStarted": "Mulai Sekarang",
+    "contactUs": "Hubungi Kami"
+  },
+  "hero": {
+    "badge": "Mitra Teknologi Bisnis",
+    "title": "Bangun. Kembangkan.",
+    "titleHighlight": "Transformasi.",
+    "description": "Membantu bisnis mempercepat transformasi digital melalui perangkat lunak yang dapat diskalakan, sistem enterprise, aplikasi mobile, dan konsultasi teknologi.",
+    "ctaPrimary": "Mari Membangun Bersama",
+    "ctaSecondary": "Lihat Portofolio",
+    "trustItems": {
+      "enterprise": "Perangkat Lunak Enterprise",
+      "mobile": "Pengembangan Mobile",
+      "cloud": "Integrasi Cloud",
+      "design": "Desain UI/UX"
+    },
+    "dashboard": {
+      "title": "Analitik ORREN",
+      "totalProjects": "Total Proyek",
+      "totalProjectsValue": "50+",
+      "totalProjectsChange": "+12 bulan ini",
+      "clientSatisfaction": "Kepuasan Klien",
+      "clientSatisfactionValue": "98%",
+      "clientSatisfactionChange": "Top 1% industri",
+      "activeClients": "Klien Aktif",
+      "activeClientsValue": "20+",
+      "activeClientsGrowth": "Pertumbuhan 75% QoQ",
+      "recentDeployments": "Deployment Terbaru",
+      "deployment1": "Implementasi ERP",
+      "deployment2": "Aplikasi Mobile v2.0",
+      "deployment3": "Migrasi Cloud",
+      "deployment4": "API Gateway",
+      "timeAgo": "2j lalu",
+      "systemHealth": "Kesehatan Sistem",
+      "systemHealthValue": "99.99% Uptime",
+      "alertSystem": "Sistem Peringatan",
+      "apiLatency": "Latensi API",
+      "apiLatencyStatus": "Optimal",
+      "databaseLoad": "Beban Database",
+      "databaseLoadStatus": "Normal",
+      "activeUsers": "Pengguna Aktif",
+      "activeUsersValue": "12.5K",
+      "activeUsersChange": "+3.2% dari kemarin"
+    },
+    "scroll": "Gulir"
+  },
+  "stats": {
+    "projectsDelivered": "Proyek Terselesaikan",
+    "happyClients": "Klien Bahagia",
+    "clientSatisfaction": "Kepuasan Klien",
+    "yearsExcellence": "Tahun Keunggulan"
+  },
+  "technologies": {
+    "title": "Dibangun dengan Teknologi Terkemuka"
+  },
+  "valueProps": {
+    "customDev": {
+      "subtitle": "Pengembangan Perangkat Lunak Kustom",
+      "description": "Setiap solusi dirancang khusus untuk bisnis Anda."
+    },
+    "agile": {
+      "subtitle": "Alur Kerja Berbasis Sprint",
+      "description": "Iterasi cepat dan proses pengembangan transparan."
+    },
+    "cloud": {
+      "subtitle": "Siap Deployment",
+      "description": "Aplikasi yang disiapkan untuk infrastruktur cloud modern."
+    },
+    "support": {
+      "subtitle": "Dukungan Teknis",
+      "description": "Dukungan dan pemeliharaan berkelanjutan setelah deployment."
+    }
+  },
+  "services": {
+    "customDevelopment": {
+      "title": "Pengembangan Perangkat Lunak Kustom",
+      "description": "Solusi yang disesuaikan dengan kebutuhan dan alur kerja bisnis unik Anda."
+    },
+    "uiuxDesign": {
+      "title": "Desain UI/UX",
+      "description": "Antarmuka yang indah dan intuitif yang menyenangkan pengguna dan mendorong keterlibatan."
+    },
+    "database": {
+      "title": "Arsitektur Database",
+      "description": "Struktur data yang dapat diskalakan dan dioptimalkan untuk performa dan keandalan."
+    },
+    "cloud": {
+      "title": "Solusi Cloud",
+      "description": "Infrastruktur cloud modern yang berkembang sesuai kebutuhan bisnis Anda."
+    },
+    "security": {
+      "title": "Keamanan & Kepatuhan",
+      "description": "Langkah keamanan tingkat enterprise untuk melindungi data dan pengguna Anda."
+    },
+    "performance": {
+      "title": "Optimasi Performa",
+      "description": "Aplikasi super cepat yang dioptimalkan untuk kecepatan dan efisiensi."
+    }
+  },
+  "whyOrren": {
+    "businessFirst": {
+      "title": "Bisnis Utama",
+      "description": "Kami memprioritaskan tujuan bisnis dan ROI Anda dalam setiap keputusan, memastikan teknologi melayani visi Anda."
+    },
+    "scalable": {
+      "title": "Arsitektur Skalabel",
+      "description": "Dibangun untuk berkembang bersama bisnis Anda. Solusi kami dapat diskalakan dengan mulus seiring kebutuhan Anda berkembang."
+    },
+    "custom": {
+      "title": "Pengembangan Kustom",
+      "description": "Tidak ada template atau solusi standar. Setiap baris kode dibuat khusus untuk kebutuhan spesifik Anda."
+    },
+    "partnership": {
+      "title": "Kemitraan Jangka Panjang",
+      "description": "Kami bukan hanya pengembang, kami adalah mitra pertumbuhan Anda. Dukungan dan evolusi di luar peluncuran."
+    }
+  },
+  "testimonials": {
+    "testimonial1": {
+      "quote": "ORREN mengubah sistem lama kami menjadi platform modern yang dapat diskalakan. Keahlian dan dedikasi mereka luar biasa.",
+      "author": "Sarah Johnson",
+      "role": "CTO, TechCorp"
+    },
+    "testimonial2": {
+      "quote": "Tim di ORREN memberikan hasil melebihi ekspektasi kami. Mereka memahami kebutuhan bisnis kami dan menciptakan solusi yang memberikan hasil nyata.",
+      "author": "Michael Chen",
+      "role": "CEO, InnovateLabs"
+    },
+    "testimonial3": {
+      "quote": "Bekerja dengan ORREN adalah pengubah permainan. Perhatian mereka terhadap detail dan komitmen terhadap kualitas tidak tertandingi.",
+      "author": "Emily Rodriguez",
+      "role": "Direktur Produk, DataFlow"
+    },
+    "testimonial4": {
+      "quote": "ORREN membangun seluruh platform kami dari awal. Keterampilan teknis dan pemahaman bisnis mereka membuat mereka mitra yang sempurna.",
+      "author": "David Kim",
+      "role": "Pendiri, StartupHub"
+    },
+    "testimonial5": {
+      "quote": "ORREN membangun seluruh platform kami dari awal. Keterampilan teknis dan pemahaman bisnis mereka membuat mereka mitra yang sempurna.",
+      "author": "Kim jong un",
+      "role": "Pendiri, StartupHub"
+    }
+  },
+  "cta": {
+    "title": "Siap Mentransformasi Bisnis Anda?",
+    "description": "Mari diskusikan bagaimana kami dapat membantu Anda mencapai tujuan dengan solusi teknologi terkini yang disesuaikan dengan kebutuhan Anda.",
+    "primary": "Mulai Percakapan",
+    "secondary": "Jelajahi Layanan"
+  },
+  "about": {
+    "hero": {
+      "description": "Mitra Teknologi Bisnis terpercaya Anda, membangun solusi yang dapat diskalakan sejak 2019"
+    },
+    "story": {
+      "title": "Cerita Kami",
+      "description": "Didirikan pada tahun 2019, ORREN lahir dari keyakinan sederhana: teknologi harus memberdayakan bisnis, bukan menyulitkannya. Kami telah berkembang dari tim kecil menjadi mitra terpercaya bagi perusahaan di seluruh dunia."
+    },
+    "mission": {
+      "title": "Misi Kami",
+      "description": "Mempercepat transformasi digital dengan memberikan solusi perangkat lunak yang inovatif dan dapat diskalakan yang mendorong hasil bisnis yang terukur dan kesuksesan jangka panjang."
+    },
+    "vision": {
+      "title": "Visi Kami",
+      "description": "Menjadi mitra teknologi paling tepercaya di dunia, dikenal karena mewujudkan ide-ide ambisius menjadi kenyataan melalui keahlian perangkat lunak yang luar biasa."
+    },
+    "values": {
+      "title": "Nilai Inti Kami",
+      "subtitle": "Prinsip yang memandu segala yang kami lakukan",
+      "excellence": {
+        "title": "Keunggulan",
+        "description": "Kami mengejar keunggulan dalam setiap baris kode, setiap keputusan desain, dan setiap interaksi dengan klien."
+      },
+      "integrity": {
+        "title": "Integritas",
+        "description": "Transparansi dan kejujuran memandu hubungan kami dengan klien, mitra, dan anggota tim."
+      },
+      "collaboration": {
+        "title": "Kolaborasi",
+        "description": "Kami percaya solusi terbaik muncul dari kolaborasi erat antara tim kami dan tim Anda."
+      },
+      "innovation": {
+        "title": "Inovasi",
+        "description": "Kami tetap unggul dalam tren teknologi untuk memberikan solusi terkini yang memberi Anda keunggulan kompetitif."
+      },
+      "passion": {
+        "title": "Gairah",
+        "description": "Kami mencintai apa yang kami lakukan, dan hal itu terlihat dalam kualitas pekerjaan kami dan dedikasi kami terhadap kesuksesan Anda."
+      }
+    },
+    "journey": {
+      "title": "Perjalanan Kami",
+      "subtitle": "Pencapaian yang membentuk ORREN",
+      "timeline": [
+        {
+          "year": "2019",
+          "event": "ORREN Didirikan",
+          "description": "Dimulai dengan visi untuk mengubah cara bisnis mendekati teknologi"
+        },
+        {
+          "year": "2020",
+          "event": "Klien Enterprise Pertama",
+          "description": "Mengirimkan solusi enterprise berskala besar pertama kami"
+        },
+        {
+          "year": "2022",
+          "event": "50+ Proyek",
+          "description": "Mencapai pencapaian besar melayani berbagai industri"
+        },
+        {
+          "year": "2024",
+          "event": "Ekspansi Global",
+          "description": "Memperluas layanan kami ke pasar internasional"
+        },
+        {
+          "year": "2026",
+          "event": "Hub Inovasi",
+          "description": "Meluncurkan divisi R&D kami yang berfokus pada AI dan teknologi baru"
+        }
+      ]
+    },
+    "team": {
+      "title": "Kenali Kepemimpinan Kami",
+      "subtitle": "Tim yang menggerakkan ORREN maju",
+      "members": [
+        {
+          "name": "Alex Johnson",
+          "role": "CEO & Pendiri"
+        },
+        {
+          "name": "Sarah Chen",
+          "role": "CTO"
+        },
+        {
+          "name": "Michael Rodriguez",
+          "role": "Kepala Desain"
+        },
+        {
+          "name": "Emily Davis",
+          "role": "VP Teknik"
+        }
+      ]
+    }
+  },
+  "servicesPage": {
+    "hero": {
+      "title": "Layanan",
+      "titleHighlight": "Layanan",
+      "description": "Solusi perangkat lunak end-to-end yang disesuaikan dengan kebutuhan bisnis Anda"
+    },
+    "items": {
+      "web": {
+        "title": "Pengembangan Web",
+        "longDescription": "Kami membangun aplikasi web yang cepat, aman, dan dapat diskalakan menggunakan framework terkini dan praktik terbaik. Dari platform enterprise hingga portal pelanggan, kami memberikan solusi yang mendorong pertumbuhan bisnis.",
+        "features": [
+          "Aplikasi web kustom",
+          "Progressive Web Apps (PWA)",
+          "Platform e-commerce",
+          "Pengembangan CMS",
+          "Pengembangan API",
+          "Deployment cloud"
+        ]
+      },
+      "mobile": {
+        "title": "Pengembangan Mobile",
+        "longDescription": "Ciptakan pengalaman mobile yang luar biasa yang melibatkan pengguna dan mendorong konversi. Kami mengembangkan aplikasi iOS dan Android native, serta solusi lintas platform yang memaksimalkan jangkauan sambil meminimalkan biaya.",
+        "features": [
+          "Pengembangan aplikasi iOS",
+          "Pengembangan aplikasi Android",
+          "Solusi React Native",
+          "Aplikasi Flutter",
+          "Optimasi App Store",
+          "Layanan backend mobile"
+        ]
+      },
+      "uiux": {
+        "title": "Desain UI/UX",
+        "longDescription": "Desain bukan hanya tentang penampilan, tetapi bagaimana ia bekerja. Kami menciptakan desain yang berpusat pada pengguna yang menggabungkan estetika dengan fungsionalitas, memastikan pengguna Anda memiliki pengalaman yang luar biasa.",
+        "features": [
+          "Riset pengguna & persona",
+          "Wireframing & prototyping",
+          "Desain visual",
+          "Sistem desain",
+          "Pengujian kegunaan",
+          "Kepatuhan aksesibilitas"
+        ]
+      },
+      "website": {
+        "title": "Website Perusahaan",
+        "longDescription": "Website Anda sering kali menjadi kesan pertama pelanggan terhadap bisnis Anda. Kami menciptakan website yang menakjubkan dan berperforma tinggi yang menarik pengunjung dan mengubah mereka menjadi pelanggan.",
+        "features": [
+          "Website korporat",
+          "Landing page",
+          "Website portofolio",
+          "Optimasi SEO",
+          "Manajemen konten",
+          "Integrasi analitik"
+        ]
+      },
+      "integration": {
+        "title": "Integrasi Sistem",
+        "longDescription": "Hancurkan silo data dan rampingkan operasi dengan mengintegrasikan sistem yang Anda miliki. Kami menghubungkan ERP, CRM, gateway pembayaran, dan layanan pihak ketiga ke dalam ekosistem yang terpadu.",
+        "features": [
+          "Integrasi API",
+          "Layanan pihak ketiga",
+          "Modernisasi sistem lama",
+          "Migrasi data",
+          "Otomatisasi alur kerja",
+          "Middleware kustom"
+        ]
+      },
+      "maintenance": {
+        "title": "Pemeliharaan & Dukungan",
+        "longDescription": "Perangkat lunak membutuhkan perawatan berkelanjutan agar tetap aman, berperforma, dan bernilai. Layanan pemeliharaan dan dukungan kami memastikan aplikasi Anda terus memberikan hasil lama setelah peluncuran.",
+        "features": [
+          "Perbaikan bug & pembaruan",
+          "Pemantauan performa",
+          "Patch keamanan",
+          "Peningkatan fitur",
+          "Dukungan teknis",
+          "Manajemen infrastruktur"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Siap untuk memulai?",
+      "description": "Mari diskusikan bagaimana kami dapat membantu mentransformasi bisnis Anda dengan solusi teknologi yang tepat.",
+      "button": "Mulai Proyek"
+    }
+  },
+  "portfolioPage": {
+    "hero": {
+      "title": "Portofolio",
+      "titleHighlight": "Portofolio",
+      "description": "Mengubah ide menjadi pengalaman digital yang berdampak"
+    },
+    "filters": {
+      "all": "Semua",
+      "web": "Web",
+      "mobile": "Mobile",
+      "design": "Desain",
+      "enterprise": "Enterprise"
+    },
+    "projects": {
+      "healthcare": {
+        "title": "Platform Kesehatan",
+        "category": "web",
+        "description": "Sistem manajemen kesehatan komprehensif yang melayani 10.000+ pasien"
+      },
+      "ecommerce": {
+        "title": "Aplikasi Mobile E-Commerce",
+        "category": "mobile",
+        "description": "Aplikasi belanja lintas platform dengan 500K+ unduhan"
+      },
+      "finance": {
+        "title": "Dasbor Keuangan",
+        "category": "design",
+        "description": "Platform analitik keuangan intuitif untuk klien enterprise"
+      },
+      "erp": {
+        "title": "ERP Manufaktur",
+        "category": "enterprise",
+        "description": "Solusi ERP end-to-end untuk operasi manufaktur"
+      },
+      "education": {
+        "title": "Portal Pembelajaran Pendidikan",
+        "category": "web",
+        "description": "Platform pembelajaran interaktif dengan streaming video dan penilaian"
+      },
+      "logistics": {
+        "title": "Aplikasi Pelacakan Logistik",
+        "category": "mobile",
+        "description": "Pelacakan pengiriman real-time dengan integrasi GPS"
+      }
+    },
+    "cta": {
+      "title": "Punya proyek dalam pikiran?",
+      "subtitle": "Mari diskusikan bagaimana kami dapat mewujudkan visi Anda",
+      "button": "Mulai Proyek Anda"
+    }
+  },
+  "industriesPage": {
+    "hero": {
+      "title": "Industri",
+      "titleHighlight": "Kami",
+      "description": "Solusi yang disesuaikan untuk berbagai industri dan jenis bisnis"
+    },
+    "industrySection": {
+      "title": "Solusi Khusus Industri",
+      "subtitle": "Keahlian mendalam di berbagai sektor"
+    },
+    "industries": {
+      "education": {
+        "title": "Pendidikan",
+        "description": "Transformasi digital untuk sekolah, universitas, dan platform pembelajaran",
+        "features": [
+          "Sistem Manajemen Pembelajaran",
+          "Portal Mahasiswa",
+          "Kelas Virtual",
+          "Pembelajaran Berbasis Permainan"
+        ]
+      },
+      "manufacturing": {
+        "title": "Manufaktur",
+        "description": "Solusi manufaktur cerdas yang mengoptimalkan produksi dan rantai pasok",
+        "features": [
+          "Integrasi IoT",
+          "Pemantauan Produksi",
+          "Sistem Kontrol Kualitas",
+          "Manajemen Rantai Pasok"
+        ]
+      },
+      "healthcare": {
+        "title": "Kesehatan",
+        "description": "Solusi yang aman dan sesuai untuk klinik, rumah sakit, dan kesehatan teknologi",
+        "features": [
+          "Sistem EHR",
+          "Platform Telemedisin",
+          "Manajemen Pasien",
+          "Kepatuhan & Keamanan"
+        ]
+      },
+      "logistics": {
+        "title": "Logistik",
+        "description": "Solusi logistik end-to-end untuk perusahaan transportasi dan pengiriman",
+        "features": [
+          "Optimisasi Rute",
+          "Manajemen Armada",
+          "Pelacakan Real-time",
+          "Automasi Gudang"
+        ]
+      },
+      "retail": {
+        "title": "Ritel",
+        "description": "Solusi omnichannel yang mengubah pengalaman ritel",
+        "features": [
+          "Platform E-commerce",
+          "Sistem POS",
+          "Program Loyalitas Pelanggan",
+          "Manajemen Inventaris"
+        ]
+      },
+      "corporate": {
+        "title": "Perusahaan",
+        "description": "Solusi enterprise untuk perusahaan yang sudah mapan yang mencari inovasi",
+        "features": [
+          "Transformasi Digital",
+          "Perangkat Lunak Enterprise",
+          "Automasasi",
+          "Dasbor Analitik"
+        ]
+      },
+      "startup": {
+        "title": "Startup",
+        "description": "Solusi akselerasi untuk startup yang berkembang cepat dan perusahaan teknologi",
+        "features": [
+          "Prototipe Cepat",
+          "Pengembangan MVP",
+          "Arsitektur Skalabel",
+          "Pengembangan Agile"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Lihat bagaimana kami dapat membantu industri Anda",
+      "description": "Baik Anda adalah startup atau perusahaan yang sudah mapan, kami memiliki keahlian untuk mendorong transformasi digital Anda.",
+      "button": "Diskusikan Kebutuhan Industri Anda"
+    }
+  },
+  "processPage": {
+    "hero": {
+      "title": "Proses",
+      "titleHighlight": "Kami",
+      "description": "Metodologi terbukti untuk memberikan hasil yang luar biasa"
+    },
+    "section": {
+      "title": "Dari Visi Menjadi Kenyataan",
+      "subtitle": "Proses 7 langkah kami yang terbukti memastikan proyek Anda selesai tepat waktu, sesuai anggaran, dan dengan standar tertinggi"
+    },
+    "steps": {
+      "discovery": {
+        "phase": "Penemuan",
+        "duration": "Minggu 1-2",
+        "description": "Kami menggali lebih dalam untuk memahami bisnis, tujuan, dan tantangan Anda. Fase ini mencakup wawancara pemangku kepentingan, riset pasar, dan penilaian teknis.",
+        "details": "Pengumpulan kebutuhan, Wawancara pemangku kepentingan, Analisis pasar, Audit teknis"
+      },
+      "planning": {
+        "phase": "Perencanaan",
+        "duration": "Minggu 2-3",
+        "description": "Kami membuat peta jalan yang komprehensif yang menguraikan ruang lingkup proyek, jadwal, dan alokasi sumber daya.",
+        "details": "Peta jalan proyek, Desain arsitektur, Pemilihan teknologi, Perencanaan sprint"
+      },
+      "uiux": {
+        "phase": "Desain UI/UX",
+        "duration": "Minggu 3-5",
+        "description": "Desainer kami menciptakan antarmuka yang intuitif dan pengalaman pengguna yang menarik yang disesuaikan dengan audiens Anda.",
+        "details": "Wireframe, Prototipe, Desain visual, Pengujian pengguna"
+      },
+      "development": {
+        "phase": "Pengembangan",
+        "duration": "Minggu 5-12",
+        "description": "Tim engineering kami mewujudkan desain menggunakan metodologi agile dan praktik terbaik.",
+        "details": "Sprint agile, Pengembangan API, Frontend & backend, Tinjauan kode"
+      },
+      "testing": {
+        "phase": "Pengujian",
+        "duration": "Minggu 12-13",
+        "description": "Jaminan kualitas yang ketat memastikan solusi Anda andal, aman, dan berkinerja sempurna.",
+        "details": "Pengujian QA, Audit keamanan, Pengujian kinerja, Pelacakan bug"
+      },
+      "deployment": {
+        "phase": "Penyebaran",
+        "duration": "Minggu 13-14",
+        "description": "Kami menangani seluruh proses penyebaran, memastikan transisi yang lancar ke produksi.",
+        "details": "Pipeline CI/CD, Penyebaran cloud, Pengaturan pemantauan, Dukungan go-live"
+      },
+      "support": {
+        "phase": "Dukungan & Pertumbuhan",
+        "duration": "Berkelanjutan",
+        "description": "Kami terus mendukung, memelihara, dan meningkatkan solusi Anda untuk memastikan kesuksesan jangka panjang.",
+        "details": "Dukungan berkelanjutan, Pembaruan fitur, Optimasi kinerja, Konsultasi strategis"
+      }
+    },
+    "cta": {
+      "title": "Siap memulai perjalanan Anda?",
+      "subtitle": "Kami siap saat Anda siap",
+      "button": "Mulai Proyek Anda"
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "title": "Mari",
+      "titleHighlight": "Bicara",
+      "description": "Siap mentransformasi bisnis Anda? Hubungi tim ahli teknologi kami."
+    },
+    "form": {
+      "title": "Kirim pesan kepada kami",
+      "firstName": "Nama Depan",
+      "lastName": "Nama Belakang",
+      "email": "Alamat Email",
+      "company": "Perusahaan",
+      "message": "Pesan",
+      "submit": "Kirim Pesan"
+    },
+    "info": {
+      "title": "Hubungi kami",
+      "email": {
+        "label": "Email",
+        "note": "Kami akan merespons dalam 24 jam"
+      },
+      "phone": {
+        "label": "Telepon",
+        "note": "Senin-Jumat 9am-6pm EST"
+      },
+      "office": {
+        "label": "Kantor"
+      }
+    },
+    "social": {
+      "title": "Ikuti Kami",
+      "description": "Tetap terhubung dengan pembaruan dan wawasan terbaru kami."
+    },
+    "whatsapp": {
+      "message": "Halo ORREN 👋\n\nNama: {{firstName}} {{lastName}}\n\nEmail: {{email}}\n\nPerusahaan: {{company}}\n\nPesan:\n{{message}}\n\nSaya tertarik untuk berdiskusi lebih lanjut mengenai kebutuhan project saya.\nTerima kasih."
+    }
+  },
+  "seo": {
+    "siteName": "ORREN Business Technology",
+    "home": {
+      "title": "Software House Indonesia | ORREN Business Technology",
+      "description": "ORREN adalah software house di Indonesia untuk jasa pembuatan website, web development, mobile app, enterprise software, dan digital transformation.",
+      "keywords": "software house indonesia, jasa pembuatan website, web development indonesia, mobile app development indonesia, custom software development, enterprise software indonesia, ui ux design indonesia, digital transformation indonesia, cloud integration indonesia, technology consultant indonesia, ORREN"
+    },
+    "about": {
+      "title": "Tentang ORREN | ORREN Business Technology",
+      "description": "Kenali ORREN, software house di Indonesia yang mempercepat transformasi digital dengan solusi enterprise software, web, mobile, dan cloud.",
+      "keywords": "software house indonesia, technology consultant indonesia, custom software development, digital transformation indonesia, enterprise software indonesia"
+    },
+    "services": {
+      "title": "Jasa Pembuatan Website | ORREN Business Technology",
+      "description": "Jelajahi layanan ORREN: perangkat lunak kustom, pengembangan web, aplikasi mobile, desain UI/UX, integrasi sistem, dan solusi cloud.",
+      "keywords": "jasa pembuatan website, web development indonesia, mobile app development indonesia, custom software development, enterprise software indonesia, ui ux design indonesia, cloud integration indonesia, technology consultant indonesia"
+    },
+    "portfolio": {
+      "title": "Portofolio | ORREN Business Technology",
+      "description": "Lihat portofolio ORREN: enterprise software, platform kesehatan, aplikasi e-commerce, dan solusi mobile untuk klien di seluruh dunia.",
+      "keywords": "software house indonesia portofolio, custom software development, web development indonesia, mobile app development indonesia, enterprise software indonesia"
+    },
+    "industries": {
+      "title": "Industri | ORREN Business Technology",
+      "description": "ORREN melayani industri kesehatan, pendidikan, logistik, ritel, manufaktur, dan startup dengan enterprise software dan solusi digital.",
+      "keywords": "digital transformation indonesia, enterprise software indonesia, software house indonesia, cloud integration indonesia"
+    },
+    "process": {
+      "title": "Proses | ORREN Business Technology",
+      "description": "Temukan proses pengembangan 7 langkah ORREN yang terbukti, dari discovery hingga deployment, tepat waktu dan sesuai anggaran.",
+      "keywords": "software house indonesia, proses custom software development, web development indonesia, technology consultant indonesia"
+    },
+    "contact": {
+      "title": "Kontak | ORREN Business Technology",
+      "description": "Hubungi ORREN, software house di Indonesia, untuk proyek enterprise software, pengembangan web, aplikasi mobile, cloud, dan transformasi digital.",
+      "keywords": "kontak software house indonesia, jasa pembuatan website, web development indonesia, mobile app development indonesia, enterprise software indonesia, technology consultant indonesia"
+    },
+    "careers": {
+      "title": "Karier | ORREN Business Technology",
+      "description": "Bergabunglah dengan tim ORREN: insinyur, desainer, dan konsultan yang membangun enterprise software, web, mobile, dan solusi cloud.",
+      "keywords": "karier software house indonesia, web development indonesia, mobile app development indonesia, ui ux design indonesia"
+    },
+    "notFound": {
+      "title": "Halaman Tidak Ditemukan | ORREN Business Technology",
+      "description": "Halaman yang Anda cari tidak ditemukan. Jelajahi layanan software, web, mobile, cloud, dan UI/UX dari ORREN.",
+      "keywords": "404, halaman tidak ditemukan, software house indonesia, ORREN"
+    }
+  },
+  "languageSwitcher": {
+    "label": "Bahasa",
+    "en": "Inggris",
+    "id": "Indonesia"
+  },
+  "footer": {
+    "tagline": "Mitra Teknologi Bisnis Anda. Membangun solusi perangkat lunak yang dapat diskalakan yang mendorong transformasi digital.",
+    "company": "Perusahaan",
+    "aboutUs": "Tentang Kami",
+    "services": "Layanan",
+    "webDevelopment": "Pengembangan Web",
+    "mobileApps": "Aplikasi Mobile",
+    "uiuxDesign": "Desain UI/UX",
+    "cloudSolutions": "Solusi Cloud",
+    "contactInfo": "Info Kontak",
+    "address": "123 Business Ave, Tech City, TC 12345",
+    "rightsReserved": "Seluruh hak cipta dilindungi.",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Syarat & Ketentuan"
+  },
+  "notFound": {
+    "title": "Halaman Tidak Ditemukan",
+    "description": "Halaman yang Anda cari tidak ditemukan. Halaman mungkin telah dipindahkan atau dihapus.",
+    "backHome": "Kembali ke Beranda"
+  }
+}
