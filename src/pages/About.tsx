@@ -1,6 +1,6 @@
 import { MotionMain, MotionDiv } from '../components/ui/MotionWrapper'
 import { Link } from 'react-router-dom'
-import { BookOpen, Code, Heart, Lightbulb, Shield, Users, ChevronRight, ExternalLink as LinkedInIcon, Globe as InstagramIcon, Code as GithubIcon } from 'lucide-react'
+import { BookOpen, Code, Heart, Lightbulb, Shield, Users, ChevronRight, } from 'lucide-react'
 import {
   FaLinkedinIn,
   FaInstagram,
