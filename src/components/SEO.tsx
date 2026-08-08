@@ -50,7 +50,6 @@ const SEO = ({
     logo: `${SITE_URL}/apple-touch-icon.png`,
     image: DEFAULT_OG_IMAGE,
     description: 'Software house di Indonesia - jasa pembuatan website, web development, mobile app development, custom software development, enterprise software, UI UX design, digital transformation, cloud integration, dan teknologi konsultan.',
-    foundingDate: '2019',
     sameAs: [
       'https://www.linkedin.com/company/orren',
       'https://twitter.com/orren',

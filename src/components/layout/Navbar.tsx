@@ -101,7 +101,6 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
   const [scrolled, setScrolled] = useState(false)
   const [scrollProgress, setScrollProgress] = useState(0)
-  const [activeIndicatorStyle, setActiveIndicatorStyle] = useState({ width: 0, left: 0 })
   const location = useLocation()
   const { t } = useTranslation()
   const navRef = useRef<HTMLDivElement>(null)
@@ -117,17 +116,7 @@ const Navbar = () => {
 
   const isActive = (path: string) => location.pathname === path
 
-  useEffect(() => {
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-    const activeIndex = navLinks.findIndex(link => location.pathname === link.path)
-    if (activeIndex !== -1 && linkRefs.current[activeIndex]) {
-      const link = linkRefs.current[activeIndex]
-      setActiveIndicatorStyle({
-        width: link.offsetWidth,
-        left: link.offsetLeft,
-      })
-    }
-  }, [location.pathname])
+  
 
   useEffect(() => {
     let raf = 0
@@ -175,13 +164,15 @@ const Navbar = () => {
           color: #F97316;
         }
         .active-indicator {
-          position: absolute;
-          height: 2px;
-          bottom: -8px;
-          background: linear-gradient(90deg, #F97316, #DC4D01);
-          border-radius: 1px;
-          transition: all 300ms cubic-bezier(0.22, 1, 0.36, 1);
-        }
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -8px;
+  height: 2px;
+  background: linear-gradient(90deg, #F97316, #DC4D01);
+  border-radius: 999px;
+  transition: all 300ms cubic-bezier(0.22, 1, 0.36, 1);
+}
         .mobile-drawer {
           animation: slideInUp 300ms cubic-bezier(0.22, 1, 0.36, 1);
         }
@@ -247,26 +238,25 @@ const Navbar = () => {
           <div className="hidden lg:flex items-center gap-12">
             <div className="relative flex items-center gap-8">
               {navLinks.map((link, index) => (
-                <Link
-                  key={link.path}
-                  ref={(el) => {
-                    linkRefs.current[index] = el;
-                  }}
-                  to={link.path}
-                  className="nav-link text-sm font-medium text-gray-700 hover:text-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-primary rounded"
-                >
-                  {link.name}
-                  {isActive(link.path) && (
-                    <div
-                      className="active-indicator"
-                      style={{
-                        width: `${activeIndicatorStyle.width}px`,
-                        left: `${activeIndicatorStyle.left}px`,
-                      }}
-                    />
-                  )}
-                </Link>
-              ))}
+  <Link
+    key={link.path}
+    ref={(el) => {
+      linkRefs.current[index] = el
+    }}
+    to={link.path}
+    className={`nav-link relative inline-flex items-center text-sm font-medium focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-primary rounded ${
+      isActive(link.path)
+        ? 'text-primary'
+        : 'text-gray-700 hover:text-primary'
+    }`}
+  >
+    {link.name}
+
+    {isActive(link.path) && (
+      <span className="active-indicator" />
+    )}
+  </Link>
+))}
             </div>
 
             <div className="flex items-center gap-4 border-l border-gray-200/40 pl-4">

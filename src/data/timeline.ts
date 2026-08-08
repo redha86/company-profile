@@ -2,28 +2,23 @@ import type { TimelineItem } from '@/types';
 
 export const timelineItems: TimelineItem[] = [
   {
-    year: '2019',
-    event: 'ORREN Founded',
-    description: 'Started with a vision to transform how businesses approach technology'
+    year: 'NOW',
+    event: 'ORREN Is Here',
+    description: 'Building the ORREN brand and laying the foundation as a trusted digital technology partner'
   },
   {
-    year: '2020',
-    event: 'First Enterprise Client',
-    description: 'Delivered our first large-scale enterprise solution'
+    year: 'NOW',
+    event: 'Building Digital Solutions',
+    description: 'Developing websites and digital solutions focused on real business needs'
   },
   {
-    year: '2022',
-    event: '50+ Projects Milestone',
-    description: 'Reached a major milestone serving diverse industries'
+    year: 'NOW',
+    event: 'Developing a Portfolio',
+    description: 'Building and documenting projects to showcase ORREN\'s capabilities and experience'
   },
   {
-    year: '2024',
-    event: 'Global Expansion',
-    description: 'Extended our services to international markets'
-  },
-  {
-    year: '2026',
-    event: 'Innovation Hub',
-    description: 'Launched our R&D division focusing on AI and emerging tech'
+    year: 'NEXT',
+    event: 'Continuing to Grow',
+    description: 'ORREN continues to grow, enhance its capabilities, and create better digital solutions'
   }
 ];

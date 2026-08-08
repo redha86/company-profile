@@ -62,7 +62,7 @@
     "projectsDelivered": "Projects Delivered",
     "happyClients": "Happy Clients",
     "clientSatisfaction": "Client Satisfaction",
-    "yearsExcellence": "Years of Excellence"
+    "yearsExcellence": "Support Available"
   },
   "technologies": {
     "title": "Built with Industry-Leading Technologies"
@@ -164,11 +164,11 @@
   },
   "about": {
     "hero": {
-      "description": "Your trusted Business Technology Partner, building scalable solutions since 2019"
+      "description": "Building digital experiences that combine creativity, technology, and meaningful purpose."
     },
     "story": {
       "title": "Our Story",
-      "description": "Founded in 2019, ORREN emerged from a simple belief: technology should empower businesses, not complicate them. We've grown from a small team to a trusted partner for companies worldwide."
+      "description": "Driven by curiosity about technology and a desire to create something meaningful, ORREN has evolved into a space for transforming ideas into digital experiences."
     },
     "mission": {
       "title": "Our Mission",
@@ -208,37 +208,39 @@
       "timeline": {
         "0": {
           "year": "NOW",
-          "event": "ORREN Hadir",
-          "description": "Establishing the ORREN brand and building its foundation as a digital technology partner."
+          "event": "ORREN Is Here",
+          "description": "Building the ORREN brand and laying the foundation as a trusted digital technology partner."
         },
         "1": {
           "year": "NOW",
-          "event": "Membangun Solusi Digital",
+          "event": "Building Digital Solutions",
           "description": "Developing websites and digital solutions focused on real business needs."
         },
         "2": {
           "year": "NOW",
-          "event": "Mengembangkan Portfolio",
-          "description": "Building and documenting projects to demonstrate ORREN's capabilities and experience."
+          "event": "Developing a Portfolio",
+          "description": "Building and documenting projects to showcase ORREN's capabilities and experience."
         },
         "3": {
           "year": "NOW",
-          "event": "Terus Berkembang",
-          "description": "ORREN continues to grow, improve its capabilities, and create better digital solutions."
+          "event": "Continuing to Grow",
+          "description": "ORREN continues to grow, enhance its capabilities, and create better digital solutions."
         }
       }
     },
     "team": {
-      "title": "Meet Our Leadership",
-      "subtitle": "The team driving ORREN forward",
+      "title": "Behind ORREN",
+      "subtitle": "One vision, one step, to build something meaningful.",
       "members": [
         {
           "name": "Redha Artha S.",
-          "role": "Founder & Developer",
+          "role": "Founder & Product Developer",
+          "image": "redha",
           "socials": {
-            "linkedin": "https://www.linkedin.com/company/orren",
-            "github": "https://github.com/anomalyco",
-            "instagram": "https://instagram.com/orren.co"
+            "linkedin": "https://www.linkedin.com/in/redha-artha-septaviano",
+            "github": "https://github.com/redha86",
+            "instagram": "https://www.instagram.com/_redhaartha.s/",
+            "website": "https://redha-porto.vercel.app/"
           }
         }
       ]
@@ -575,7 +577,7 @@
     },
     "about": {
       "title": "About ORREN | ORREN Business Technology",
-      "description": "Learn about ORREN, a software house in Indonesia specializing in enterprise software, web development, and digital transformation since 2019.",
+      "description": "Learn about ORREN, a software house in Indonesia specializing in enterprise software, web development, and digital transformation.",
       "keywords": "software house indonesia, technology consultant indonesia, custom software development, digital transformation indonesia, enterprise software indonesia"
     },
     "services": {

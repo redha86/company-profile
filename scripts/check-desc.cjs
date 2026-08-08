@@ -7,7 +7,7 @@ const pages = ['home','about','services','portfolio','industries','process','con
 const descs = {
   en: {
     home: 'ORREN is a software house in Indonesia offering web development, mobile apps, enterprise software, UI/UX design, and digital transformation.',
-    about: 'Learn about ORREN, a software house in Indonesia specializing in enterprise software, web development, and digital transformation since 2019.',
+    about: 'Learn about ORREN, a software house in Indonesia specializing in enterprise software, web development, and digital transformation.',
     services: 'Explore ORREN services: custom software, web development, mobile apps, UI/UX design, system integration, and cloud solutions for your business.',
     portfolio: 'View ORREN portfolio of enterprise software, healthcare platforms, e-commerce apps, and mobile solutions built for clients worldwide.',
     industries: 'ORREN serves healthcare, education, logistics, retail, manufacturing, and startups with tailored enterprise software and digital solutions.',

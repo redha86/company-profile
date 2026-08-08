@@ -14,7 +14,7 @@ export const stats: Stat[] = [
     label: 'Client Satisfaction'
   },
   {
-    value: '5+',
-    label: 'Years of Excellence'
+    value: '24/7',
+    label: 'Support Available'
   }
 ];

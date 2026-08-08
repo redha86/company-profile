@@ -147,22 +147,22 @@ const About = () => {
                 </GlassCard>
               </ScrollReveal>
 
-              <ScrollReveal delay={0.1}>
-                <GlassCard padding="lg" className="h-full text-center">
-                  <Lightbulb className="text-primary mx-auto mb-4" size={48} aria-hidden="true" />
-                  <h3 className="text-2xl font-display font-bold text-gray-900 mb-4">{t('about.mission.title')}</h3>
-                  <p className="text-gray-600 leading-relaxed">
-                    {t('about.mission.description')}
-                  </p>
-                </GlassCard>
-              </ScrollReveal>
-
               <ScrollReveal delay={0.2}>
                 <GlassCard padding="lg" className="h-full text-center">
                   <Users className="text-primary mx-auto mb-4" size={48} aria-hidden="true" />
                   <h3 className="text-2xl font-display font-bold text-gray-900 mb-4">{t('about.vision.title')}</h3>
                   <p className="text-gray-600 leading-relaxed">
                     {t('about.vision.description')}
+                  </p>
+                </GlassCard>
+              </ScrollReveal>
+
+              <ScrollReveal delay={0.1}>
+                <GlassCard padding="lg" className="h-full text-center">
+                  <Lightbulb className="text-primary mx-auto mb-4" size={48} aria-hidden="true" />
+                  <h3 className="text-2xl font-display font-bold text-gray-900 mb-4">{t('about.mission.title')}</h3>
+                  <p className="text-gray-600 leading-relaxed">
+                    {t('about.mission.description')}
                   </p>
                 </GlassCard>
               </ScrollReveal>
@@ -301,7 +301,7 @@ const About = () => {
                         </div>
 
                         {/* Social Icons */}
-                        <div className="flex items-center gap-3 opacity-0 translate-y-4 transition-all duration-500 delay-100 group-hover:opacity-100 group-hover:translate-y-0">
+                        <div className="flex items-center gap-3 opacity-100 translate-y-0 transition-all duration-500 delay-100 md:opacity-0 md:translate-y-4 md:group-hover:opacity-100 md:group-hover:translate-y-0">
                           {member.socials?.linkedin && (
                             <a
                               href={member.socials.linkedin}

@@ -62,7 +62,7 @@
     "projectsDelivered": "Proyek Terselesaikan",
     "happyClients": "Klien Bahagia",
     "clientSatisfaction": "Kepuasan Klien",
-    "yearsExcellence": "Tahun Keunggulan"
+    "yearsExcellence": "Dukungan Tersedia"
   },
   "technologies": {
     "title": "Dibangun dengan Teknologi Terkemuka"
@@ -164,11 +164,11 @@
   },
   "about": {
     "hero": {
-      "description": "Mitra Teknologi Bisnis terpercaya Anda, membangun solusi yang dapat diskalakan sejak 2019"
+      "description": "Membangun pengalaman digital yang menggabungkan kreativitas, teknologi, dan tujuan yang berarti."
     },
     "story": {
       "title": "Cerita Kami",
-      "description": "Didirikan pada tahun 2019, ORREN lahir dari keyakinan sederhana: teknologi harus memberdayakan bisnis, bukan menyulitkannya. Kami telah berkembang dari tim kecil menjadi mitra terpercaya bagi perusahaan di seluruh dunia."
+      "description": "Berawal dari rasa ingin tahu terhadap teknologi dan keinginan untuk menciptakan sesuatu yang berarti, ORREN terus berkembang menjadi ruang untuk membangun ide menjadi pengalaman digital."
     },
     "mission": {
       "title": "Misi Kami",
@@ -229,12 +229,12 @@
       }
     },
     "team": {
-      "title": "Kenali Kepemimpinan Kami",
-      "subtitle": "Tim yang menggerakkan ORREN maju",
+      "title": "Di Balik ORREN",
+      "subtitle": "Satu visi, satu langkah, untuk membangun sesuatu yang berarti.",
       "members": [
         {
           "name": "Redha Artha S.",
-          "role": "Pendiri & Pengembang",
+          "role": "Pendiri & Pengembang Produk",
           "image": "redha",
           "socials": {
             "linkedin": "https://www.linkedin.com/in/redha-artha-septaviano",
