@@ -204,54 +204,44 @@
     },
     "journey": {
       "title": "Perjalanan Kami",
-      "subtitle": "Pencapaian yang membentuk ORREN",
-      "timeline": [
-        {
-          "year": "2019",
-          "event": "ORREN Didirikan",
-          "description": "Dimulai dengan visi untuk mengubah cara bisnis mendekati teknologi"
+      "subtitle": "Membangun fondasi ORREN",
+      "timeline": {
+        "0": {
+          "year": "SEKARANG",
+          "event": "ORREN Hadir",
+          "description": "Membangun brand ORREN dan meletakkan fondasi sebagai mitra teknologi digital yang terpercaya."
         },
-        {
-          "year": "2020",
-          "event": "Klien Enterprise Pertama",
-          "description": "Mengirimkan solusi enterprise berskala besar pertama kami"
+        "1": {
+          "year": "SEKARANG",
+          "event": "Membangun Solusi Digital",
+          "description": "Mengembangkan website dan solusi digital yang fokus pada kebutuhan bisnis nyata."
         },
-        {
-          "year": "2022",
-          "event": "50+ Proyek",
-          "description": "Mencapai pencapaian besar melayani berbagai industri"
+        "2": {
+          "year": "SEKARANG",
+          "event": "Mengembangkan Portfolio",
+          "description": "Membangun dan mendokumentasikan proyek untuk menunjukkan kemampuan dan pengalaman ORREN."
         },
-        {
-          "year": "2024",
-          "event": "Ekspansi Global",
-          "description": "Memperluas layanan kami ke pasar internasional"
-        },
-        {
-          "year": "2026",
-          "event": "Hub Inovasi",
-          "description": "Meluncurkan divisi R&D kami yang berfokus pada AI dan teknologi baru"
+        "3": {
+          "year": "SEKARANG",
+          "event": "Terus Berkembang",
+          "description": "ORREN terus berkembang, meningkatkan kemampuan, dan menciptakan solusi digital yang lebih baik."
         }
-      ]
+      }
     },
     "team": {
       "title": "Kenali Kepemimpinan Kami",
       "subtitle": "Tim yang menggerakkan ORREN maju",
       "members": [
         {
-          "name": "Alex Johnson",
-          "role": "CEO & Pendiri"
-        },
-        {
-          "name": "Sarah Chen",
-          "role": "CTO"
-        },
-        {
-          "name": "Michael Rodriguez",
-          "role": "Kepala Desain"
-        },
-        {
-          "name": "Emily Davis",
-          "role": "VP Teknik"
+          "name": "Redha Artha S.",
+          "role": "Pendiri & Pengembang",
+          "image": "redha",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/redha-artha-septaviano",
+            "github": "https://github.com/redha86",
+            "instagram": "https://www.instagram.com/_redhaartha.s/",
+            "website": "https://redha-porto.vercel.app/"
+          }
         }
       ]
     }

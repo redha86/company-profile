@@ -204,54 +204,42 @@
     },
     "journey": {
       "title": "Our Journey",
-      "subtitle": "Milestones that shaped ORREN",
-      "timeline": [
-        {
-          "year": "2019",
-          "event": "ORREN Founded",
-          "description": "Started with a vision to transform how businesses approach technology"
+      "subtitle": "Building ORREN's foundation",
+      "timeline": {
+        "0": {
+          "year": "NOW",
+          "event": "ORREN Hadir",
+          "description": "Establishing the ORREN brand and building its foundation as a digital technology partner."
         },
-        {
-          "year": "2020",
-          "event": "First Enterprise Client",
-          "description": "Delivered our first large-scale enterprise solution"
+        "1": {
+          "year": "NOW",
+          "event": "Membangun Solusi Digital",
+          "description": "Developing websites and digital solutions focused on real business needs."
         },
-        {
-          "year": "2022",
-          "event": "50+ Projects",
-          "description": "Reached a major milestone serving diverse industries"
+        "2": {
+          "year": "NOW",
+          "event": "Mengembangkan Portfolio",
+          "description": "Building and documenting projects to demonstrate ORREN's capabilities and experience."
         },
-        {
-          "year": "2024",
-          "event": "Global Expansion",
-          "description": "Extended our services to international markets"
-        },
-        {
-          "year": "2026",
-          "event": "Innovation Hub",
-          "description": "Launched our R&D division focusing on AI and emerging tech"
+        "3": {
+          "year": "NOW",
+          "event": "Terus Berkembang",
+          "description": "ORREN continues to grow, improve its capabilities, and create better digital solutions."
         }
-      ]
+      }
     },
     "team": {
       "title": "Meet Our Leadership",
       "subtitle": "The team driving ORREN forward",
       "members": [
         {
-          "name": "Alex Johnson",
-          "role": "CEO & Founder"
-        },
-        {
-          "name": "Sarah Chen",
-          "role": "CTO"
-        },
-        {
-          "name": "Michael Rodriguez",
-          "role": "Head of Design"
-        },
-        {
-          "name": "Emily Davis",
-          "role": "VP of Engineering"
+          "name": "Redha Artha S.",
+          "role": "Founder & Developer",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/company/orren",
+            "github": "https://github.com/anomalyco",
+            "instagram": "https://instagram.com/orren.co"
+          }
         }
       ]
     }
