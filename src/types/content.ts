@@ -14,6 +14,8 @@ export interface Project {
   description: string;
   tech: string[];
   gradient: string;
+  images: string[];
+  url: string;
 }
 
 export interface Industry {

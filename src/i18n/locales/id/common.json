@@ -249,7 +249,7 @@
   "servicesPage": {
     "hero": {
       "title": "Layanan",
-      "titleHighlight": "Layanan",
+      "titleHighlight": "Kami",
       "description": "Solusi perangkat lunak end-to-end yang disesuaikan dengan kebutuhan bisnis Anda"
     },
     "items": {
@@ -335,7 +335,7 @@
   "portfolioPage": {
     "hero": {
       "title": "Portofolio",
-      "titleHighlight": "Portofolio",
+      "titleHighlight": "Kami",
       "description": "Mengubah ide menjadi pengalaman digital yang berdampak"
     },
     "filters": {
@@ -346,37 +346,12 @@
       "enterprise": "Enterprise"
     },
     "projects": {
-      "healthcare": {
-        "title": "Platform Kesehatan",
-        "category": "web",
-        "description": "Sistem manajemen kesehatan komprehensif yang melayani 10.000+ pasien"
-      },
-      "ecommerce": {
-        "title": "Aplikasi Mobile E-Commerce",
-        "category": "mobile",
-        "description": "Aplikasi belanja lintas platform dengan 500K+ unduhan"
-      },
-      "finance": {
-        "title": "Dasbor Keuangan",
-        "category": "design",
-        "description": "Platform analitik keuangan intuitif untuk klien enterprise"
-      },
-      "erp": {
-        "title": "ERP Manufaktur",
-        "category": "enterprise",
-        "description": "Solusi ERP end-to-end untuk operasi manufaktur"
-      },
-      "education": {
-        "title": "Portal Pembelajaran Pendidikan",
-        "category": "web",
-        "description": "Platform pembelajaran interaktif dengan streaming video dan penilaian"
-      },
-      "logistics": {
-        "title": "Aplikasi Pelacakan Logistik",
-        "category": "mobile",
-        "description": "Pelacakan pengiriman real-time dengan integrasi GPS"
+      "eko-syariah": {
+        "title": "Platform LMS EkoSyar.id",
+        "description": "Sistem manajemen pembelajaran komprehensif kejuruan yang dimiliki oleh Universitas Internasional Semen Indonesia (UISI)"
       }
     },
+    "emptyState": "Belum ada project pada kategori ini.",
     "cta": {
       "title": "Punya proyek dalam pikiran?",
       "subtitle": "Mari diskusikan bagaimana kami dapat mewujudkan visi Anda",

@@ -346,37 +346,12 @@
       "enterprise": "Enterprise"
     },
     "projects": {
-      "healthcare": {
-        "title": "HealthCare Platform",
-        "category": "web",
-        "description": "Comprehensive healthcare management system serving 10,000+ patients"
-      },
-      "ecommerce": {
-        "title": "E-Commerce Mobile App",
-        "category": "mobile",
-        "description": "Cross-platform shopping app with 500K+ downloads"
-      },
-      "finance": {
-        "title": "Financial Dashboard",
-        "category": "design",
-        "description": "Intuitive financial analytics platform for enterprise clients"
-      },
-      "erp": {
-        "title": "Manufacturing ERP",
-        "category": "enterprise",
-        "description": "End-to-end ERP solution for manufacturing operations"
-      },
-      "education": {
-        "title": "Education Learning Portal",
-        "category": "web",
-        "description": "Interactive learning platform with video streaming and assessments"
-      },
-      "logistics": {
-        "title": "Logistics Tracking App",
-        "category": "mobile",
-        "description": "Real-time shipment tracking with GPS integration"
+      "eko-syariah": {
+        "title": "EkoSyar.id LMS Platform",
+        "description": "A comprehensive learning management system for vocational education owned by Universitas Internasional Semen Indonesia (UISI)"
       }
     },
+    "emptyState": "No projects available in this category yet.",
     "cta": {
       "title": "Have a project in mind?",
       "subtitle": "Let's discuss how we can bring your vision to life",
