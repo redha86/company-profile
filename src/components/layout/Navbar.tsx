@@ -216,7 +216,7 @@ const Navbar = () => {
           className={`nav-container ${navPadding} ${navHeight} flex items-center justify-between transition-all duration-500 ${
             scrolled
               ? 'mx-auto max-w-[92%] lg:max-w-5xl rounded-full bg-white/72 backdrop-blur-2xl border border-white/35 shadow-xl'
-              : 'max-w-full bg-transparent border-transparent'
+              : 'max-w-full bg-white/80 border-transparent text-black'
           }`}
           style={{
             boxShadow: scrolled

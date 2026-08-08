@@ -27,7 +27,7 @@ const Button = forwardRef<HTMLButtonElement, ButtonProps>(
     },
     ref
   ) => {
-    const baseClasses = 'inline-flex items-center justify-center gap-2 rounded-lg font-medium transition-all duration-300 outline-none active:scale-[0.98]';
+    const baseClasses = 'inline-flex items-center justify-center gap-2 font-medium transition-all duration-300 outline-none active:scale-[0.98]';
 
     const variantClasses = {
       primary: 'bg-gradient-to-r from-primary to-accent text-white shadow-md shadow-primary/20 hover:shadow-lg hover:shadow-primary/25 hover:scale-[1.02]',
