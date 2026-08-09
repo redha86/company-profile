@@ -361,7 +361,7 @@
   "industriesPage": {
     "hero": {
       "title": "Industri",
-      "titleHighlight": "Kami",
+      "titleHighlight": "yang Dilayani",
       "description": "Solusi yang disesuaikan untuk berbagai industri dan jenis bisnis"
     },
     "industrySection": {
@@ -459,37 +459,37 @@
     "steps": {
       "discovery": {
         "phase": "Penemuan",
-        "duration": "Minggu 1-2",
+        "duration": "Fase 1",
         "description": "Kami menggali lebih dalam untuk memahami bisnis, tujuan, dan tantangan Anda. Fase ini mencakup wawancara pemangku kepentingan, riset pasar, dan penilaian teknis.",
         "details": "Pengumpulan kebutuhan, Wawancara pemangku kepentingan, Analisis pasar, Audit teknis"
       },
       "planning": {
         "phase": "Perencanaan",
-        "duration": "Minggu 2-3",
+        "duration": "Fase 2",
         "description": "Kami membuat peta jalan yang komprehensif yang menguraikan ruang lingkup proyek, jadwal, dan alokasi sumber daya.",
         "details": "Peta jalan proyek, Desain arsitektur, Pemilihan teknologi, Perencanaan sprint"
       },
       "uiux": {
         "phase": "Desain UI/UX",
-        "duration": "Minggu 3-5",
+        "duration": "Fase 3",
         "description": "Desainer kami menciptakan antarmuka yang intuitif dan pengalaman pengguna yang menarik yang disesuaikan dengan audiens Anda.",
         "details": "Wireframe, Prototipe, Desain visual, Pengujian pengguna"
       },
       "development": {
         "phase": "Pengembangan",
-        "duration": "Minggu 5-12",
+        "duration": "Fase 4",
         "description": "Tim engineering kami mewujudkan desain menggunakan metodologi agile dan praktik terbaik.",
         "details": "Sprint agile, Pengembangan API, Frontend & backend, Tinjauan kode"
       },
       "testing": {
         "phase": "Pengujian",
-        "duration": "Minggu 12-13",
+        "duration": "Fase 5",
         "description": "Jaminan kualitas yang ketat memastikan solusi Anda andal, aman, dan berkinerja sempurna.",
         "details": "Pengujian QA, Audit keamanan, Pengujian kinerja, Pelacakan bug"
       },
       "deployment": {
         "phase": "Penyebaran",
-        "duration": "Minggu 13-14",
+        "duration": "Fase 6",
         "description": "Kami menangani seluruh proses penyebaran, memastikan transisi yang lancar ke produksi.",
         "details": "Pipeline CI/CD, Penyebaran cloud, Pengaturan pemantauan, Dukungan go-live"
       },
@@ -606,12 +606,158 @@
     "uiuxDesign": "Desain UI/UX",
     "cloudSolutions": "Solusi Cloud",
     "contactInfo": "Info Kontak",
-    "address": "123 Business Ave, Tech City, TC 12345",
+    "address": "Desa Tergambang, Kec. Bancar Kab. Tuban, Jawa Timur, Indonesia",
     "rightsReserved": "Seluruh hak cipta dilindungi.",
     "privacyPolicy": "Kebijakan Privasi",
     "termsOfService": "Syarat & Ketentuan"
   },
-  "notFound": {
+  "pricing": {
+    "home": {
+      "label": "Harga Transparan",
+      "title": "Harga sederhana. Sesuai kebutuhan Anda.",
+      "subtitle": "Pilih titik awal yang sesuai dengan bisnis Anda. Untuk kebutuhan kustom, kami akan bekerja sama dengan Anda untuk membangun solusi yang tepat.",
+      "viewAll": "Lihat Semua Paket",
+      "cantFind": "Tidak menemukan yang Anda butuhkan?",
+      "customMessage": "Setiap bisnis berbeda. Beritahu kami apa yang ingin Anda bangun, dan kami akan membantu Anda menemukan solusi yang tepat.",
+      "discussProject": "Diskusikan Proyek Anda",
+      "note": "*Syarat domain, hosting, infrastruktur, dan perpanjangan dapat bervariasi tergantung pada paket dan infrastruktur yang dipilih."
+    },
+    "services": {
+      "label": "Harga",
+      "title": "Harga yang Dibangun untuk Bisnis Anda",
+      "subtitle": "Paket fleksibel mulai dari solusi sederhana hingga sistem enterprise. Semua harga adalah titik awal—mari diskusikan kebutuhan spesifik Anda.",
+      "cantFind": "Tidak menemukan yang Anda butuhkan?",
+      "customMessage": "Setiap bisnis berbeda. Beritahu kami apa yang ingin Anda bangun, dan kami akan membantu Anda menemukan solusi yang tepat.",
+      "discussProject": "Diskusikan Proyek Anda",
+      "getQuote": "Dapatkan Penawaran",
+      "note1": "*Semua harga adalah harga mulai dan dapat bervariasi berdasarkan kompleksitas dan kebutuhan proyek.",
+      "note2": "*Syarat domain, hosting, infrastruktur, dan perpanjangan dapat bervariasi tergantung pada paket dan infrastruktur yang dipilih."
+    },
+    "common": {
+      "showDetails": "Lihat semua detail",
+      "hideDetails": "Sembunyikan detail",
+      "recommended": "REKOMENDASI",
+      "perProject": "per proyek",
+      "perWebsite": "per website",
+      "customPricing": "Harga Kustom",
+      "startingFrom": "Mulai dari",
+      "pages": "Halaman",
+      "renewal": "Renewal Tahun ke-2"
+    },
+    "categories": {
+      "all": "Semua",
+      "landing": "Landing Page",
+      "portfolio": "Portfolio",
+      "company": "Company Website",
+      "ecommerce": "E-Commerce",
+      "design": "Design Service",
+      "custom": "Custom Application"
+    },
+    "cta": {
+      "choose": "Pilih Paket Ini",
+      "discuss": "Diskusikan Proyek Anda"
+    },
+    "packages": {
+      "landing_basic": {
+        "name": "Landing Page Basic",
+        "desc": "Kehadiran digital sederhana untuk brand pribadi atau UMKM.",
+        "pages": "1 Halaman — Home",
+        "renewal": "Rp300.000 / tahun",
+        "features": ["1 Landing Page", "Desain Responsif", "Basic UI Design", "Basic Copywriting", "WhatsApp CTA", "Basic SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "landing_pro": {
+        "name": "Landing Page Professional",
+        "desc": "Landing page yang dioptimalkan untuk konversi dan lead generation.",
+        "pages": "1 Halaman — Home",
+        "renewal": "Rp400.000 / tahun",
+        "features": ["1 Premium Landing Page", "Custom UI/UX Design", "Copywriting Professional", "Desain Responsif", "WhatsApp & Contact Form", "Optimasi SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Hosting 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "portfolio_basic": {
+        "name": "Portfolio Basic",
+        "desc": "Portfolio profesional sederhana untuk menampilkan karya Anda.",
+        "pages": "3 Halaman — Home, Portfolio, Kontak",
+        "renewal": "Rp350.000 / tahun",
+        "features": ["Desain Responsif", "UI Design Bersih", "Basic Copywriting", "Integrasi Media Sosial", "Basic SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "portfolio_standard": {
+        "name": "Portfolio Professional",
+        "desc": "Portfolio komprehensif untuk kreator dan profesional.",
+        "pages": "5 Halaman — Home, Tentang, Portfolio, Skills, Kontak",
+        "renewal": "Rp450.000 / tahun",
+        "features": ["Custom UI/UX Design", "Galeri Proyek", "Copywriting Lanjut", "SEO Lanjut", "Integrasi Media Sosial", "Setup Analytics", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Hosting 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "portfolio_premium": {
+        "name": "Portfolio Premium",
+        "desc": "Portfolio lanjutan dengan CMS dan integrasi blog.",
+        "pages": "7 Halaman — Home, Tentang, Portfolio, Skills, Blog, Kontak, Testimoni",
+        "renewal": "Rp650.000 / tahun",
+        "features": ["Custom UI/UX Design", "Galeri Proyek dengan Filter", "Copywriting Lanjut", "SEO Lanjut", "Integrasi Blog", "Dashboard Analytics", "Integrasi Media Sosial", "SSL", "Deployment", "Domain 1 Tahun*", "Hosting 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "company_basic": {
+        "name": "Company Basic",
+        "desc": "Kehadiran bisnis profesional dengan halaman esensial.",
+        "pages": "5 Halaman — Home, Tentang, Layanan, Portfolio, Kontak",
+        "renewal": "Rp700.000 / tahun",
+        "features": ["Desain Responsif", "Custom UI/UX", "Basic Copywriting", "Basic SEO", "WhatsApp CTA", "Google Maps", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "company_standard": {
+        "name": "Company Professional",
+        "desc": "Solusi bisnis lengkap dengan manajemen CMS.",
+        "pages": "Halaman Tak Terbatas — Home, Tentang, Layanan, Portfolio, Team, Kontak, FAQ",
+        "renewal": "Rp1.000.000 / tahun",
+        "features": ["Custom UI/UX Design", "Content Management System", "Admin Dashboard", "Blog/Berita Section", "SEO Lanjut", "Integrasi Analytics", "Google Maps", "SSL", "Deployment", "Domain 1 Tahun*", "Hosting 1 Tahun*", "Aktif 1 Tahun"]
+      },
+      "company_premium": {
+        "name": "Company Premium",
+        "desc": "Platform bisnis lanjutan dengan CMS dan integrasi API lengkap.",
+        "pages": "Halaman Tak Terbatas dengan Konten Dinamis",
+        "renewal": "Rp1.500.000 / tahun",
+        "features": ["UI/UX Design Lanjutan", "Content Management System Lengkap", "Dashboard Kustom", "Blog/Berita dengan Kategori", "SEO Lanjut", "Analytics & Reporting", "Integrasi API", "Dukungan Multi-bahasa", "SSL", "Deployment", "Domain 1 Tahun*", "Hosting 1 Tahun*", "Dukungan Prioritas"]
+      },
+      "ecommerce_basic": {
+        "name": "E-Commerce Basic",
+        "desc": "Mulai jualan online dengan fitur e-commerce esensial.",
+        "pages": "Home, Shop, Detail Produk, Cart, Checkout",
+        "renewal": "Rp1.200.000 / tahun",
+        "features": ["Katalog Produk", "Shopping Cart", "WhatsApp Checkout", "Manajemen Order", "Basic SEO", "Desain Responsif", "SSL", "Deployment", "Domain 1 Tahun*", "Hosting 1 Tahun*"]
+      },
+      "ecommerce_standard": {
+        "name": "E-Commerce Professional",
+        "desc": "Toko online profesional dengan integrasi payment gateway.",
+        "pages": "Home, Shop, Akun, Pelacakan Order, Checkout, Tentang, Kontak",
+        "renewal": "Rp2.000.000 / tahun",
+        "features": ["Katalog Produk dengan Variasi", "Integrasi Payment Gateway", "Sistem Akun Pelanggan", "Pelacakan Order", "Manajemen Inventaris", "Sistem Diskon/Voucher", "SEO Lanjut", "Desain Responsif", "SSL", "Deployment", "Domain 1 Tahun*", "Hosting 1 Tahun*"]
+      },
+      "ecommerce_premium": {
+        "name": "E-Commerce Premium",
+        "desc": "Platform e-commerce lanjutan dengan kemampuan multi-vendor.",
+        "pages": "Home, Shop, Vendor Dashboard, Admin Panel, Akun, Cart, Checkout",
+        "renewal": "Rp3.500.000 / tahun",
+        "features": ["Marketplace Multi-Vendor", "Manajemen Produk Lanjutan", "Multiple Payment Gateway", "Sistem Inventaris Lanjutan", "Vendor Dashboard", "Pelaporan Lanjutan", "Pelacakan Order & Shipping", "SEO Lanjut", "Desain Responsif", "SSL", "Deployment", "Domain 1 Tahun*", "Premium Hosting 1 Tahun*"]
+      },
+      "design_basic": {
+        "name": "UI Design Basic",
+        "desc": "Desain UI profesional untuk produk digital Anda.",
+        "features": ["UI Design", "Layout Responsif", "Prototipe Dasar", "2 Revisi", "Output File Figma", "Design System"]
+      },
+      "design_standard": {
+        "name": "UI/UX Design Professional",
+        "desc": "Desain UI/UX lengkap dengan riset dan testing.",
+        "features": ["Riset UI/UX", "Full Design System", "Prototipe High-Fidelity", "User Flow Design", "Usability Testing", "5 Revisi", "Output File Figma"]
+      },
+      "design_premium": {
+        "name": "UI/UX Design Premium",
+        "desc": "Solusi desain komprehensif dengan dukungan berkelanjutan.",
+        "features": ["Strategi & Riset UI/UX", "Design System Lengkap", "Prototipe Interaktif", "User Flow & Journey", "Usability Testing & Analytics", "Revisi Tanpa Batas", "Output File Figma", "Design Handoff", "3 Bulan Support"]
+      },
+      "custom_app": {
+        "name": "Custom Web & Application",
+        "desc": "Dibangun sesuai kebutuhan bisnis unik Anda dan alur kerja yang kompleks.",
+        "features": ["Analisis Kebutuhan & Konsultasi", "Desain Arsitektur Kustom", "Desain & Optimasi Database", "Authentication & Authorization", "Desain & Integrasi API", "Admin Panel & Dashboard", "Testing & Quality Assurance", "Infrastruktur Skalabel", "Deployment & Maintenance", "Dukungan & Update Berkelanjutan"]
+      }
+    }
+  },
+  "notFoundPage": {
     "title": "Halaman Tidak Ditemukan",
     "description": "Halaman yang Anda cari tidak ditemukan. Halaman mungkin telah dipindahkan atau dihapus.",
     "backHome": "Kembali ke Beranda"

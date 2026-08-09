@@ -14,6 +14,7 @@ const StatsSection = lazy(() => import('../components/sections/StatsSection'))
 const ServicesGrid = lazy(() => import('../components/sections/ServicesGrid'))
 const WhyOrren = lazy(() => import('../components/sections/WhyOrren'))
 const TestimonialsSection = lazy(() => import('../components/sections/TestimonialsSection'))
+const HomePricingSection = lazy(() => import('../components/sections/HomePricingSection'))
 const CTASection = lazy(() => import('../components/sections/CTASection'))
 
 const SectionLoader = () => <div className="h-96" />
@@ -53,6 +54,9 @@ const Home = () => {
         </Suspense>
         <Suspense fallback={<SectionLoader />}>
           <TestimonialsSection />
+        </Suspense>
+        <Suspense fallback={<SectionLoader />}>
+          <HomePricingSection />
         </Suspense>
         <Suspense fallback={<SectionLoader />}>
           <CTASection />

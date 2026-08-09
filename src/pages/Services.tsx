@@ -9,6 +9,7 @@ import LoadingScreen from '../components/layout/LoadingScreen'
 import GlassCard from '../components/ui/GlassCard'
 import ScrollReveal from '../components/motion/ScrollReveal'
 import SEO from '../components/SEO'
+import ServicesPricingSection from '../components/sections/ServicesPricingSection'
 import { useTranslation } from 'react-i18next'
 
 const Services = () => {
@@ -173,6 +174,8 @@ const Services = () => {
             </ScrollReveal>
           </div>
         </section>
+
+        <ServicesPricingSection />
       </MotionMain>
 
       <Footer />

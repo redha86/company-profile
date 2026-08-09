@@ -459,37 +459,37 @@
     "steps": {
       "discovery": {
         "phase": "Discovery",
-        "duration": "Week 1-2",
+        "duration": "Phase 1",
         "description": "We dive deep into understanding your business, goals, and challenges. This phase includes stakeholder interviews, market research, and technical assessment.",
         "details": "Requirements gathering, Stakeholder interviews, Market analysis, Technical audit"
       },
       "planning": {
         "phase": "Planning",
-        "duration": "Week 2-3",
+        "duration": "Phase 2",
         "description": "We create a comprehensive roadmap outlining project scope, timeline, and resource allocation.",
         "details": "Project roadmap, Architecture design, Technology selection, Sprint planning"
       },
       "uiux": {
         "phase": "UI/UX Design",
-        "duration": "Week 3-5",
+        "duration": "Phase 3",
         "description": "Our designers craft intuitive interfaces and engaging user experiences tailored to your audience.",
         "details": "Wireframes, Prototypes, Visual design, User testing"
       },
       "development": {
         "phase": "Development",
-        "duration": "Week 5-12",
+        "duration": "Phase 4",
         "description": "Our engineering team brings designs to life using agile methodologies and best practices.",
         "details": "Agile sprints, API development, Frontend & backend, Code reviews"
       },
       "testing": {
         "phase": "Testing",
-        "duration": "Week 12-13",
+        "duration": "Phase 5",
         "description": "Rigorous quality assurance ensures your solution is reliable, secure, and performs flawlessly.",
         "details": "QA testing, Security audit, Performance testing, Bug tracking"
       },
       "deployment": {
         "phase": "Deployment",
-        "duration": "Week 13-14",
+        "duration": "Phase 6",
         "description": "We handle the entire deployment process, ensuring a smooth transition to production.",
         "details": "CI/CD pipeline, Cloud deployment, Monitoring setup, Go-live support"
       },
@@ -611,7 +611,153 @@
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   },
-  "notFound": {
+  "pricing": {
+    "home": {
+      "label": "Transparent Pricing",
+      "title": "Simple pricing. Built around your needs.",
+      "subtitle": "Choose a starting point that fits your business. For custom requirements, we'll work with you to build the right solution.",
+      "viewAll": "View All Packages",
+      "cantFind": "Can't find what you need?",
+      "customMessage": "Every business is different. Tell us what you're trying to build, and we'll help you find the right solution.",
+      "discussProject": "Discuss Your Project",
+      "note": "*Domain, hosting, infrastructure, and renewal terms may vary depending on the selected package and infrastructure."
+    },
+    "services": {
+      "label": "Pricing",
+      "title": "Pricing Built for Your Business",
+      "subtitle": "Flexible packages starting from simple solutions to enterprise systems. All prices are starting points—let's discuss your specific needs.",
+      "cantFind": "Can't find what you need?",
+      "customMessage": "Every business is different. Tell us what you're trying to build, and we'll help you find the right solution.",
+      "discussProject": "Discuss Your Project",
+      "getQuote": "Get a Quote",
+      "note1": "*All prices are starting prices and may vary based on project complexity and requirements.",
+      "note2": "*Domain, hosting, infrastructure, and renewal terms may vary depending on the selected package and infrastructure."
+    },
+    "common": {
+      "showDetails": "Show all details",
+      "hideDetails": "Hide details",
+      "recommended": "RECOMMENDED",
+      "perProject": "per project",
+      "perWebsite": "per website",
+      "customPricing": "Custom Pricing",
+      "startingFrom": "Starting from",
+      "pages": "Pages",
+      "renewal": "Renewal Year 2"
+    },
+    "categories": {
+      "all": "All",
+      "landing": "Landing Page",
+      "portfolio": "Portfolio",
+      "company": "Company",
+      "ecommerce": "E-Commerce",
+      "design": "Design Service",
+      "custom": "Custom Application"
+    },
+    "cta": {
+      "choose": "Choose This Package",
+      "discuss": "Discuss Your Project"
+    },
+    "packages": {
+      "landing_basic": {
+        "name": "Landing Page Basic",
+        "desc": "Simple digital presence for personal brand or UMKM.",
+        "pages": "1 Page — Home",
+        "renewal": "Rp300.000 / year",
+        "features": ["1 Landing Page", "Responsive Design", "Basic UI Design", "Basic Copywriting", "WhatsApp CTA", "Basic SEO", "SSL", "Deployment", "Free Domain 1 Year*", "Active 1 Year"]
+      },
+      "landing_pro": {
+        "name": "Landing Page Professional",
+        "desc": "Optimized landing page for conversion and lead generation.",
+        "pages": "1 Page — Home",
+        "renewal": "Rp400.000 / year",
+        "features": ["1 Premium Landing Page", "Custom UI/UX Design", "Professional Copywriting", "Responsive Design", "WhatsApp & Contact Form", "SEO Optimization", "SSL", "Deployment", "Free Domain 1 Year*", "Hosting 1 Year*", "Active 1 Year"]
+      },
+      "portfolio_basic": {
+        "name": "Portfolio Basic",
+        "desc": "Simple professional portfolio to showcase your work.",
+        "pages": "3 Pages — Home, Portfolio, Contact",
+        "renewal": "Rp350.000 / year",
+        "features": ["Responsive Design", "Clean UI Design", "Basic Copywriting", "Social Media Integration", "Basic SEO", "SSL", "Deployment", "Free Domain 1 Year*", "Active 1 Year"]
+      },
+      "portfolio_standard": {
+        "name": "Portfolio Professional",
+        "desc": "Comprehensive portfolio for creators and professionals.",
+        "pages": "5 Pages — Home, About, Portfolio, Skills, Contact",
+        "renewal": "Rp450.000 / year",
+        "features": ["Custom UI/UX Design", "Project Gallery", "Advanced Copywriting", "Advanced SEO", "Social Media Integration", "Analytics Setup", "SSL", "Deployment", "Free Domain 1 Year*", "Hosting 1 Year*", "Active 1 Year"]
+      },
+      "portfolio_premium": {
+        "name": "Portfolio Premium",
+        "desc": "Advanced portfolio with CMS and blog integration.",
+        "pages": "7 Pages — Home, About, Portfolio, Skills, Blog, Contact, Testimonials",
+        "renewal": "Rp650.000 / year",
+        "features": ["Custom UI/UX Design", "Project Gallery with Filter", "Advanced Copywriting", "Advanced SEO", "Blog Integration", "Analytics Dashboard", "Social Media Integration", "SSL", "Deployment", "Domain 1 Year*", "Hosting 1 Year*", "Active 1 Year"]
+      },
+      "company_basic": {
+        "name": "Company Basic",
+        "desc": "Professional business presence with essential pages.",
+        "pages": "5 Pages — Home, About, Services, Portfolio, Contact",
+        "renewal": "Rp700.000 / year",
+        "features": ["Responsive Design", "Custom UI/UX", "Basic Copywriting", "Basic SEO", "WhatsApp CTA", "Google Maps", "SSL", "Deployment", "Free Domain 1 Year*", "Active 1 Year"]
+      },
+      "company_standard": {
+        "name": "Company Professional",
+        "desc": "Complete business solution with CMS management.",
+        "pages": "Unlimited Pages — Home, About, Services, Portfolio, Team, Contact, FAQ",
+        "renewal": "Rp1.000.000 / year",
+        "features": ["Custom UI/UX Design", "Content Management System", "Admin Dashboard", "Blog/News Section", "Advanced SEO", "Analytics Integration", "Google Maps", "SSL", "Deployment", "Domain 1 Year*", "Hosting 1 Year*", "Active 1 Year"]
+      },
+      "company_premium": {
+        "name": "Company Premium",
+        "desc": "Advanced business platform with full CMS and API integration.",
+        "pages": "Unlimited Pages with Dynamic Content",
+        "renewal": "Rp1.500.000 / year",
+        "features": ["Advanced UI/UX Design", "Full Content Management System", "Custom Dashboard", "Blog/News with Categories", "Advanced SEO", "Analytics & Reporting", "API Integration", "Multi-language Support", "SSL", "Deployment", "Domain 1 Year*", "Hosting 1 Year*", "Priority Support"]
+      },
+      "ecommerce_basic": {
+        "name": "E-Commerce Basic",
+        "desc": "Start selling online with essential e-commerce features.",
+        "pages": "Home, Shop, Product Detail, Cart, Checkout",
+        "renewal": "Rp1.200.000 / year",
+        "features": ["Product Catalog", "Shopping Cart", "WhatsApp Checkout", "Order Management", "Basic SEO", "Responsive Design", "SSL", "Deployment", "Domain 1 Year*", "Hosting 1 Year*"]
+      },
+      "ecommerce_standard": {
+        "name": "E-Commerce Professional",
+        "desc": "Professional online store with payment gateway integration.",
+        "pages": "Home, Shop, Account, Order Tracking, Checkout, About, Contact",
+        "renewal": "Rp2.000.000 / year",
+        "features": ["Product Catalog with Variations", "Payment Gateway Integration", "Customer Account System", "Order Tracking", "Inventory Management", "Discount/Voucher System", "Advanced SEO", "Responsive Design", "SSL", "Deployment", "Domain 1 Year*", "Hosting 1 Year*"]
+      },
+      "ecommerce_premium": {
+        "name": "E-Commerce Premium",
+        "desc": "Advanced e-commerce platform with multi-vendor capabilities.",
+        "pages": "Home, Shop, Vendor Dashboard, Admin Panel, Account, Cart, Checkout",
+        "renewal": "Rp3.500.000 / year",
+        "features": ["Multi-Vendor Marketplace", "Advanced Product Management", "Multiple Payment Gateways", "Advanced Inventory System", "Vendor Dashboard", "Advanced Reporting", "Order Tracking & Shipping", "Advanced SEO", "Responsive Design", "SSL", "Deployment", "Domain 1 Year*", "Premium Hosting 1 Year*"]
+      },
+      "design_basic": {
+        "name": "UI Design Basic",
+        "desc": "Professional UI design for your digital product.",
+        "features": ["UI Design", "Responsive Layout", "Basic Prototype", "2 Revisions", "Figma File Output", "Design System"]
+      },
+      "design_standard": {
+        "name": "UI/UX Design Professional",
+        "desc": "Complete UI/UX design with research and testing.",
+        "features": ["UI/UX Research", "Full Design System", "High-Fidelity Prototype", "User Flow Design", "Usability Testing", "5 Revisions", "Figma File Output"]
+      },
+      "design_premium": {
+        "name": "UI/UX Design Premium",
+        "desc": "Comprehensive design solution with ongoing support.",
+        "features": ["UI/UX Strategy & Research", "Complete Design System", "Interactive Prototype", "User Flow & Journey", "Usability Testing & Analytics", "Unlimited Revisions", "Figma File Output", "Design Handoff", "3 Months Support"]
+      },
+      "custom_app": {
+        "name": "Custom Web & Application",
+        "desc": "Built around your unique business needs and complex workflows.",
+        "features": ["Requirement Analysis & Consultation", "Custom Architecture Design", "Database Design & Optimization", "Authentication & Authorization", "API Design & Integration", "Admin Panel & Dashboard", "Testing & Quality Assurance", "Scalable Infrastructure", "Deployment & Maintenance", "Ongoing Support & Updates"]
+      }
+    }
+  },
+  "notFoundPage": {
     "title": "Page Not Found",
     "description": "The page you are looking for does not exist. It may have been moved or removed.",
     "backHome": "Back to Home"
