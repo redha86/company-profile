@@ -96,6 +96,7 @@ const Services = () => {
             </MotionDiv>
           </div>
         </section>
+        <ServicesPricingSection />
 
         <section className="py-24 bg-white">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -105,6 +106,7 @@ const Services = () => {
                 const isEven = index % 2 === 0
 
                 return (
+                  
                   <ScrollReveal key={index} delay={0.2}>
                     <div className={`grid lg:grid-cols-2 gap-12 items-center ${!isEven ? 'lg:grid-flow-dense' : ''}`}>
                       <div className={isEven ? '' : 'lg:col-start-2'}>
@@ -147,6 +149,7 @@ const Services = () => {
             </div>
           </div>
         </section>
+        
 
         <section className="py-24 bg-gradient-to-br from-primary via-primary-dark to-accent relative overflow-hidden">
           <div className="absolute inset-0 opacity-10">
@@ -175,7 +178,7 @@ const Services = () => {
           </div>
         </section>
 
-        <ServicesPricingSection />
+        
       </MotionMain>
 
       <Footer />
