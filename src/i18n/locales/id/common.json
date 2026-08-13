@@ -661,23 +661,23 @@
       "landing_basic": {
         "name": "Landing Page Basic",
         "desc": "Kehadiran digital sederhana untuk brand pribadi atau UMKM.",
-        "pages": "1 Halaman — Home",
+        "pages": "1 Halaman — Home/Landing Page",
         "renewal": "Rp300.000 / tahun",
-        "features": ["1 Landing Page", "Desain Responsif", "Basic UI Design", "Basic Copywriting", "WhatsApp CTA", "Basic SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Aktif 1 Tahun"]
+        "features": ["1 Landing Page", "Desain Responsif desktop & Mobile", "Basic UI Design", "Basic Copywriting", "WhatsApp CTA", "Basic SEO", "SSL", "Deployment", "Domain .my.id gratis 1 tahun", "Aktif 1 Tahun"]
       },
       "landing_pro": {
         "name": "Landing Page Professional",
         "desc": "Landing page yang dioptimalkan untuk konversi dan lead generation.",
-        "pages": "1 Halaman — Home",
+        "pages": "1 Halaman — Premium Landing Page",
         "renewal": "Rp400.000 / tahun",
-        "features": ["1 Premium Landing Page", "Custom UI/UX Design", "Copywriting Professional", "Desain Responsif", "WhatsApp & Contact Form", "Optimasi SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Hosting 1 Tahun*", "Aktif 1 Tahun"]
+        "features": ["1 Premium Landing Page", "Custom UI/UX Design", "Copywriting Professional", "Desain Responsif desktop & Mobile", "WhatsApp & Contact Form", "Optimasi SEO", "SSL", "Deployment", "Domain .com gratis 1 tahun", "Hosting 1 Tahun", "Aktif 1 Tahun"]
       },
       "portfolio_basic": {
         "name": "Portfolio Basic",
         "desc": "Portfolio profesional sederhana untuk menampilkan karya Anda.",
         "pages": "3 Halaman — Home, Portfolio, Kontak",
         "renewal": "Rp350.000 / tahun",
-        "features": ["Desain Responsif", "UI Design Bersih", "Basic Copywriting", "Integrasi Media Sosial", "Basic SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Aktif 1 Tahun"]
+        "features": ["Desain Responsif desktop & Mobile", "UI Design Bersih", "Basic Copywriting", "Integrasi Media Sosial", "Basic SEO", "SSL", "Deployment", "Gratis Domain 1 Tahun*", "Aktif 1 Tahun"]
       },
       "portfolio_standard": {
         "name": "Portfolio Professional",
