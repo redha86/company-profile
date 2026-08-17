@@ -203,7 +203,7 @@ const Contact = () => {
                         </div>
                         <div>
                           <h3 className="font-semibold text-gray-900 mb-1">{t('contactPage.info.email.label')}</h3>
-                          <p className="text-gray-600">hello@orren.co</p>
+                          <p className="text-gray-600">hello@orren.my.id</p>
                           <p className="text-sm text-gray-500">{t('contactPage.info.email.note')}</p>
                         </div>
                       </div>

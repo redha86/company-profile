@@ -1,12 +1,12 @@
 import { Helmet } from 'react-helmet-async'
 import { useTranslation } from 'react-i18next'
 
-const SITE_URL = 'https://orren.co'
+const SITE_URL = 'https://orren.my.id'
 const SITE_NAME = 'ORREN Business Technology'
 const THEME_COLOR = '#DC4D01'
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`
 const BUSINESS_PHONE = '+62 21-0000-0000'
-const BUSINESS_EMAIL = 'hello@orren.co'
+const BUSINESS_EMAIL = 'hello@orren.my.id'
 const BUSINESS_ADDRESS = 'Jakarta, Indonesia'
 
 export interface BreadcrumbItem {

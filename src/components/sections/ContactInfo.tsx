@@ -5,8 +5,8 @@ const contactDetails = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'contact@orren.com',
-    href: 'mailto:contact@orren.com'
+    value: 'contact@orren.my.idm',
+    href: 'mailto:contact@orren.my.idm'
   },
   {
     icon: Phone,

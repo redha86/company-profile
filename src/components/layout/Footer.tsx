@@ -21,7 +21,7 @@ const Footer = () => {
               <a href="https://www.linkedin.com/company/orren" target="_blank" rel="noopener noreferrer" aria-label="ORREN on LinkedIn" className="text-gray-400 hover:text-primary transition-colors">
                 <ExternalLink size={20} aria-hidden="true" />
               </a>
-              <a href="https://orren.co" target="_blank" rel="noopener noreferrer" aria-label="ORREN website" className="text-gray-400 hover:text-primary transition-colors">
+              <a href="https://orren.my.id" target="_blank" rel="noopener noreferrer" aria-label="ORREN website" className="text-gray-400 hover:text-primary transition-colors">
                 <Globe size={20} aria-hidden="true" />
               </a>
             </div>
