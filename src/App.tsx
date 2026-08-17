@@ -1,7 +1,8 @@
 import { lazy, Suspense } from 'react'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom'
 import { Helmet } from 'react-helmet-async'
 import { useTranslation } from 'react-i18next'
+import ScrollToTop from './components/layout/ScrollToTop'
 
 const Home = lazy(() => import('./pages/Home'))
 const About = lazy(() => import('./pages/About'))
@@ -21,40 +22,50 @@ const PageLoader = () => (
 
 const router = createBrowserRouter([
   {
-    path: '/',
-    element: <Suspense fallback={<PageLoader />}><Home /></Suspense>,
-  },
-  {
-    path: '/about',
-    element: <Suspense fallback={<PageLoader />}><About /></Suspense>,
-  },
-  {
-    path: '/services',
-    element: <Suspense fallback={<PageLoader />}><Services /></Suspense>,
-  },
-  {
-    path: '/portfolio',
-    element: <Suspense fallback={<PageLoader />}><Portfolio /></Suspense>,
-  },
-  {
-    path: '/industries',
-    element: <Suspense fallback={<PageLoader />}><Industries /></Suspense>,
-  },
-  {
-    path: '/process',
-    element: <Suspense fallback={<PageLoader />}><Process /></Suspense>,
-  },
-  {
-    path: '/careers',
-    element: <Suspense fallback={<PageLoader />}><Careers /></Suspense>,
-  },
-  {
-    path: '/contact',
-    element: <Suspense fallback={<PageLoader />}><Contact /></Suspense>,
-  },
-  {
-    path: '*',
-    element: <Suspense fallback={<PageLoader />}><NotFound /></Suspense>,
+    element: (
+      <>
+        <ScrollToTop />
+        <Outlet />
+      </>
+    ),
+    children: [
+      {
+        path: '/',
+        element: <Suspense fallback={<PageLoader />}><Home /></Suspense>,
+      },
+      {
+        path: '/about',
+        element: <Suspense fallback={<PageLoader />}><About /></Suspense>,
+      },
+      {
+        path: '/services',
+        element: <Suspense fallback={<PageLoader />}><Services /></Suspense>,
+      },
+      {
+        path: '/portfolio',
+        element: <Suspense fallback={<PageLoader />}><Portfolio /></Suspense>,
+      },
+      {
+        path: '/industries',
+        element: <Suspense fallback={<PageLoader />}><Industries /></Suspense>,
+      },
+      {
+        path: '/process',
+        element: <Suspense fallback={<PageLoader />}><Process /></Suspense>,
+      },
+      {
+        path: '/careers',
+        element: <Suspense fallback={<PageLoader />}><Careers /></Suspense>,
+      },
+      {
+        path: '/contact',
+        element: <Suspense fallback={<PageLoader />}><Contact /></Suspense>,
+      },
+      {
+        path: '*',
+        element: <Suspense fallback={<PageLoader />}><NotFound /></Suspense>,
+      },
+    ],
   },
 ])
 
