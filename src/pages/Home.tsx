@@ -13,6 +13,7 @@ const TrustedBy = lazy(() => import('../components/sections/TrustedBy'))
 const StatsSection = lazy(() => import('../components/sections/StatsSection'))
 const ServicesGrid = lazy(() => import('../components/sections/ServicesGrid'))
 const WhyOrren = lazy(() => import('../components/sections/WhyOrren'))
+const PortfolioShowcase = lazy(() => import('../components/sections/PortfolioShowcase'))
 const TestimonialsSection = lazy(() => import('../components/sections/TestimonialsSection'))
 const HomePricingSection = lazy(() => import('../components/sections/HomePricingSection'))
 const CTASection = lazy(() => import('../components/sections/CTASection'))
@@ -51,6 +52,9 @@ const Home = () => {
         </Suspense>
         <Suspense fallback={<SectionLoader />}>
           <WhyOrren />
+        </Suspense>
+        <Suspense fallback={<SectionLoader />}>
+          <PortfolioShowcase />
         </Suspense>
         <Suspense fallback={<SectionLoader />}>
           <TestimonialsSection />

@@ -5,9 +5,7 @@ const SITE_URL = 'https://orren.my.id'
 const SITE_NAME = 'ORREN Business Technology'
 const THEME_COLOR = '#DC4D01'
 const DEFAULT_OG_IMAGE = `${SITE_URL}/og-image.png`
-const BUSINESS_PHONE = '+62 21-0000-0000'
 const BUSINESS_EMAIL = 'hello@orren.my.id'
-const BUSINESS_ADDRESS = 'Jakarta, Indonesia'
 
 export interface BreadcrumbItem {
   name: string
@@ -52,12 +50,9 @@ const SEO = ({
     description: 'Software house di Indonesia - jasa pembuatan website, web development, mobile app development, custom software development, enterprise software, UI UX design, digital transformation, cloud integration, dan teknologi konsultan.',
     sameAs: [
       'https://www.linkedin.com/company/orren',
-      'https://twitter.com/orren',
-      'https://www.facebook.com/orren',
     ],
     contactPoint: {
       '@type': 'ContactPoint',
-      telephone: BUSINESS_PHONE,
       email: BUSINESS_EMAIL,
       contactType: 'customer service',
       availableLanguage: ['English', 'Indonesian'],
@@ -65,8 +60,6 @@ const SEO = ({
     },
     address: {
       '@type': 'PostalAddress',
-      addressLocality: 'Jakarta',
-      addressRegion: 'Jakarta',
       addressCountry: 'ID',
     },
     areaServed: {
@@ -88,33 +81,17 @@ const SEO = ({
     parentOrganization: {
       '@id': `${SITE_URL}/#organization`,
     },
-    telephone: BUSINESS_PHONE,
     email: BUSINESS_EMAIL,
     address: {
       '@type': 'PostalAddress',
-      addressLocality: 'Jakarta',
-      addressRegion: 'Jakarta',
       addressCountry: 'ID',
     },
-    geo: {
-      '@type': 'GeoCoordinates',
-      latitude: -6.2088,
-      longitude: 106.8456,
-    },
-    hasMap: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(BUSINESS_ADDRESS)}`,
     areaServed: {
       '@type': 'Country',
       name: 'Indonesia',
     },
     priceRange: '$$',
-    openingHoursSpecification: [
-      {
-        '@type': 'OpeningHoursSpecification',
-        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
-        opens: '09:00',
-        closes: '18:00',
-      },
-    ],
+
     makesOffer: [
       {
         '@type': 'Offer',
@@ -214,7 +191,6 @@ const SEO = ({
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@orren" />
-      <meta name="twitter:creator" content="@orren" />
       {title && <meta name="twitter:title" content={title} />}
       {description && <meta name="twitter:description" content={description} />}
       <meta name="twitter:image" content={image} />
@@ -222,21 +198,9 @@ const SEO = ({
       <meta name="theme-color" content={THEME_COLOR} />
       <meta name="msapplication-TileColor" content={THEME_COLOR} />
 
-      <meta name="geo.region" content="ID-JK" />
-      <meta name="geo.placename" content="Jakarta" />
-      <meta name="geo.position" content="-6.2088;106.8456" />
-      <meta name="ICBM" content="-6.2088, 106.8456" />
-
-      <meta name="business:contact_data:street_address" content="Jakarta" />
-      <meta name="business:contact_data:locality" content="Jakarta" />
-      <meta name="business:contact_data:region" content="Jakarta" />
-      <meta name="business:contact_data:postal_code" content="10110" />
+      <meta name="geo.region" content="ID" />
       <meta name="business:contact_data:country_name" content="Indonesia" />
       <meta name="business:contact_data:email" content={BUSINESS_EMAIL} />
-      <meta name="business:contact_data:phone_number" content={BUSINESS_PHONE} />
-      <meta name="place:location:latitude" content="-6.2088" />
-      <meta name="place:location:longitude" content="106.8456" />
-      <meta name="place:location:region" content="ID-JK" />
 
       <script type="application/ld+json">
         {JSON.stringify(organizationJsonLd)}

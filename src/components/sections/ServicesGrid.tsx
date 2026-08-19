@@ -5,6 +5,9 @@ import MotionStaggerItem from '../motion/StaggerItem';
 import GlassCard from '../ui/GlassCard';
 import Button from '../ui/Button';
 import { FeatureIcon } from '@/components/shared/FeatureIcon';
+import SectionTitle from '../ui/SectionTitle';
+import ScrollReveal from '../motion/ScrollReveal';
+import Container from '../ui/Container';
 import { useTranslation } from 'react-i18next';
 
 export default function ServicesGrid() {
@@ -44,21 +47,33 @@ export default function ServicesGrid() {
   ];
 
   return (
-    <MotionStaggerGroup staggerDelay={0.1} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-      {services.map((service, index) => (
-        <MotionStaggerItem key={index}>
-          <GlassCard className="h-full flex flex-col group cursor-pointer hover:scale-105">
-            <FeatureIcon icon={service.icon} size="md" className="mb-4" />
-            <h3 className="text-xl font-semibold mb-3 text-gray-900">{service.title}</h3>
-            <p className="text-gray-600 mb-6 flex-grow">{service.description}</p>
-            <Link to="/services" className="self-start">
-              <Button variant="ghost" size="sm" icon={<ArrowRight size={16} aria-hidden="true" />} className="group-hover:text-primary">
-                {t('common.learnMore')}
-              </Button>
-            </Link>
-          </GlassCard>
-        </MotionStaggerItem>
-      ))}
-    </MotionStaggerGroup>
+    <section className="py-24 bg-gradient-to-br from-white via-primary-light/5 to-white relative overflow-hidden" id="services">
+      <Container>
+        <ScrollReveal>
+          <SectionTitle
+            label={t('servicesPage.hero.titleHighlight', 'OUR SERVICES')}
+            title={t('servicesPage.hero.title', 'Technology Solutions Built Around Your Business')}
+            subtitle={t('servicesPage.hero.description', 'From websites and applications to custom software, we build digital solutions designed to solve real business needs.')}
+          />
+        </ScrollReveal>
+
+        <MotionStaggerGroup staggerDelay={0.1} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-16">
+          {services.map((service, index) => (
+            <MotionStaggerItem key={index}>
+              <GlassCard className="h-full flex flex-col group cursor-pointer hover:scale-105">
+                <FeatureIcon icon={service.icon} size="md" className="mb-4" />
+                <h3 className="text-xl font-semibold mb-3 text-gray-900">{service.title}</h3>
+                <p className="text-gray-600 mb-6 flex-grow">{service.description}</p>
+                <Link to="/services" className="self-start">
+                  <Button variant="ghost" size="sm" icon={<ArrowRight size={16} aria-hidden="true" />} className="group-hover:text-primary">
+                    {t('common.learnMore')}
+                  </Button>
+                </Link>
+              </GlassCard>
+            </MotionStaggerItem>
+          ))}
+        </MotionStaggerGroup>
+      </Container>
+    </section>
   );
 }
