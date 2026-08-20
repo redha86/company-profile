@@ -203,7 +203,7 @@ const Contact = () => {
                         </div>
                         <div>
                           <h3 className="font-semibold text-gray-900 mb-1">{t('contactPage.info.email.label')}</h3>
-                          <p className="text-gray-600">hello@orren.my.id</p>
+                          <p className="text-gray-600">orrentechnology@gmail.com</p>
                           <p className="text-sm text-gray-500">{t('contactPage.info.email.note')}</p>
                         </div>
                       </div>
@@ -214,7 +214,7 @@ const Contact = () => {
                         </div>
                         <div>
                           <h3 className="font-semibold text-gray-900 mb-1">{t('contactPage.info.phone.label')}</h3>
-                          <p className="text-gray-600">+1 (555) 123-4567</p>
+                          <p className="text-gray-600">+62 878 4358 2377</p>
                           <p className="text-sm text-gray-500">{t('contactPage.info.phone.note')}</p>
                         </div>
                       </div>
@@ -225,8 +225,8 @@ const Contact = () => {
                         </div>
                         <div>
                           <h3 className="font-semibold text-gray-900 mb-1">{t('contactPage.info.office.label')}</h3>
-                          <p className="text-gray-600">New York, NY</p>
-                          <p className="text-sm text-gray-500">123 Tech Street, Suite 500</p>
+                          <p className="text-gray-600">Tergambang Village, Bancar District, Tuban Regency, East Java, Indonesia</p>
+                          <p className="text-sm text-gray-500"></p>
                         </div>
                       </div>
                     </div>
