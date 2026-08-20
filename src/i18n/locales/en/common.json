@@ -132,28 +132,8 @@
   "testimonials": {
     "testimonial1": {
       "quote": "ORREN transformed our legacy system into a modern, scalable platform. Their expertise and dedication were exceptional.",
-      "author": "Sarah Johnson",
-      "role": "CTO, TechCorp"
-    },
-    "testimonial2": {
-      "quote": "The team at ORREN delivered beyond our expectations. They understood our business needs and created a solution that drove real results.",
-      "author": "Michael Chen",
-      "role": "CEO, InnovateLabs"
-    },
-    "testimonial3": {
-      "quote": "Working with ORREN was a game-changer. Their attention to detail and commitment to quality is unmatched.",
-      "author": "Emily Rodriguez",
-      "role": "Product Director, DataFlow"
-    },
-    "testimonial4": {
-      "quote": "ORREN built our entire platform from scratch. Their technical skills and business acumen made them the perfect partner.",
-      "author": "David Kim",
-      "role": "Founder, StartupHub"
-    },
-    "testimonial5": {
-      "quote": "ORREN built our entire platform from scratch. Their technical skills and business acumen made them the perfect partner.",
-      "author": "Kim jong un",
-      "role": "Founder, StartupHub"
+      "author": "Fatma Indraningrum",
+      "role": "Mahasiswa, Universitas Internasional Semen Indonesia (UISI)"
     }
   },
   "cta": {
@@ -606,7 +586,7 @@
     "uiuxDesign": "UI/UX Design",
     "cloudSolutions": "Cloud Solutions",
     "contactInfo": "Contact Info",
-    "address": "123 Business Ave, Tech City, TC 12345",
+    "address": "Tergambang Village, Bancar District, Tuban Regency, East Java, Indonesia",
     "rightsReserved": "All rights reserved.",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"

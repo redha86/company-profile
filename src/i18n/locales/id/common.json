@@ -130,30 +130,13 @@
     }
   },
   "testimonials": {
+    "label": "CERITA KLIEN",
+  "title": "Apa Kata Klien Kami",
+  "subtitle": "Pengalaman nyata dari bisnis dan tim yang telah bekerja sama dengan kami.",
     "testimonial1": {
       "quote": "ORREN mengubah sistem lama kami menjadi platform modern yang dapat diskalakan. Keahlian dan dedikasi mereka luar biasa.",
-      "author": "Sarah Johnson",
-      "role": "CTO, TechCorp"
-    },
-    "testimonial2": {
-      "quote": "Tim di ORREN memberikan hasil melebihi ekspektasi kami. Mereka memahami kebutuhan bisnis kami dan menciptakan solusi yang memberikan hasil nyata.",
-      "author": "Michael Chen",
-      "role": "CEO, InnovateLabs"
-    },
-    "testimonial3": {
-      "quote": "Bekerja dengan ORREN adalah pengubah permainan. Perhatian mereka terhadap detail dan komitmen terhadap kualitas tidak tertandingi.",
-      "author": "Emily Rodriguez",
-      "role": "Direktur Produk, DataFlow"
-    },
-    "testimonial4": {
-      "quote": "ORREN membangun seluruh platform kami dari awal. Keterampilan teknis dan pemahaman bisnis mereka membuat mereka mitra yang sempurna.",
-      "author": "David Kim",
-      "role": "Pendiri, StartupHub"
-    },
-    "testimonial5": {
-      "quote": "ORREN membangun seluruh platform kami dari awal. Keterampilan teknis dan pemahaman bisnis mereka membuat mereka mitra yang sempurna.",
-      "author": "Kim jong un",
-      "role": "Pendiri, StartupHub"
+      "author": "Fatma Indraningrum",
+      "role": "Mahasiswa, Universitas Internasional Semen Indonesia (UISI)"
     }
   },
   "cta": {

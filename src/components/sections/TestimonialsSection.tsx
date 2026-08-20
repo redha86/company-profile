@@ -27,31 +27,7 @@ export default function TestimonialsSection() {
       author: t('testimonials.testimonial1.author'),
       role: t('testimonials.testimonial1.role'),
       initials: 'SJ',
-    },
-    {
-      quote: t('testimonials.testimonial2.quote'),
-      author: t('testimonials.testimonial2.author'),
-      role: t('testimonials.testimonial2.role'),
-      initials: 'MC',
-    },
-    {
-      quote: t('testimonials.testimonial3.quote'),
-      author: t('testimonials.testimonial3.author'),
-      role: t('testimonials.testimonial3.role'),
-      initials: 'ER',
-    },
-    {
-      quote: t('testimonials.testimonial4.quote'),
-      author: t('testimonials.testimonial4.author'),
-      role: t('testimonials.testimonial4.role'),
-      initials: 'DK',
-    },
-    {
-      quote: t('testimonials.testimonial5.quote'),
-      author: t('testimonials.testimonial5.author'),
-      role: t('testimonials.testimonial5.role'),
-      initials: 'KJ',
-    },
+    }
   ];
 
   const [current, setCurrent] = useState(0);
@@ -103,7 +79,7 @@ export default function TestimonialsSection() {
       <Container>
         <ScrollReveal>
           <SectionTitle
-            label={t('testimonials.title', 'CLIENT STORIES')}
+            label={t('testimonials.label', 'CLIENT STORIES')}
             title={t('testimonials.title', 'What Our Clients Say')}
             subtitle={t('testimonials.subtitle', 'Real experiences from businesses and teams we\'ve worked with.')}
           />
