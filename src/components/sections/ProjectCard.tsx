@@ -1,8 +1,6 @@
-import { ArrowRight } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { TechBadge } from '../shared/TechBadge';
 import GlassCard from '../ui/GlassCard';
-import Button from '../ui/Button';
 import type { Project } from '@/types';
 
 interface ProjectCardProps {
